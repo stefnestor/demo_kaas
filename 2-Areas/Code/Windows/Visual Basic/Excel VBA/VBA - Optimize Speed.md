@@ -1,15 +1,8 @@
----
-Date: 2022-03-15
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/VBA", "#Topic/Dev"]
-Alias: ["VBA - Optimize Speed"]
----
-
 # VBA - Optimize Speed
 
-*Source: *
+\*Source: *
 
-```VBA
+````VBA
 Public Sub OptimizeCodeSpeed()
 
   On Error Resume Next
@@ -25,9 +18,9 @@ Public Sub OptimizeCodeSpeed()
   On Error GoTo 0
                    
 End Sub
-```
+````
 
-```VBA
+````VBA
 Public Sub OptimizeCodeSpeedRestore()
 
   On Error Resume Next
@@ -42,9 +35,9 @@ Public Sub OptimizeCodeSpeedRestore()
   On Error GoTo 0
 
 End Sub
-```
+````
 
-```VBA
+````VBA
 'Adjusts Excel settings for faster VBA processing
 Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.ScreenUpdating = Not Toggle
@@ -55,9 +48,9 @@ Public Sub LudicrousMode(ByVal Toggle As Boolean)
     Application.PrintCommunication = Not Toggle
     Application.Calculation = IIf(Toggle, xlCalculationManual, xlCalculationAutomatic)
 End Sub
-```
+````
 
-```VBA
+````VBA
 Sub example()
 	'Stop automatic calculation of excel cells
 	Application.Calculation = xlCalculationManual
@@ -70,20 +63,20 @@ Sub example()
 	Application.Calculation = xlCalculationAutomatic
 	Application.ScreenUpdating = True
 End Sub
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Excel]]
-- [[Microsoft Office]]
-- [[Excel - VBA]]
+* *Code*
+* [Development](../../../../MOCs/Development.md)
+* [Excel](../../../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel.md)
+* [Microsoft Office](../../../../../3-Resources/Tools/Microsoft%20Office/Microsoft%20Office.md)
+* [Excel - VBA](../../../../../3-Resources/Tools/Microsoft%20Office/Excel/Excel%20-%20VBA.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[VBA - Optimize Speed]] AND -"Changelog"
-```
+````

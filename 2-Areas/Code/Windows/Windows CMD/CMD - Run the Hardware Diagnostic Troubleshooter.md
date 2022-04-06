@@ -1,32 +1,24 @@
----
-Date: 2022-02-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code", "#Topic/Dev"]
-Alias: ["Run the Hardware Diagnostic Troubleshooter"]
----
-
 # Run the Hardware Diagnostic Troubleshooter
 
-*Source: *
+\*Source: *
 
-```powershell
+````powershell
 msdt.exe -id DeviceDiagnostic
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
-
+* *Code*
+* [Development](../../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Run the Hardware Diagnostic Troubleshooter]] AND -"Changelog"
-```
+````

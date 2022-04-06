@@ -1,63 +1,56 @@
----
-Date: 2022-02-09
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/CMD", "#Topic/Dev/CLI"]
-Alias: ["DISM Commands"]
----
-
 # DISM Commands
 
-*Source: *
+\*Source: *
 
-- `DISM` Scan Health:
+* `DISM` Scan Health:
 
-```powershell
+````powershell
 Dism /Online /Cleanup-Image /ScanHealth
-```
+````
 
-- `DISM` component cleanup:
+* `DISM` component cleanup:
 
-```powershell
+````powershell
 Dism.exe /online /Cleanup-Image /StartComponentCleanup
-```
+````
 
-- DISM online repair image
+* DISM online repair image
 
-```powershell
+````powershell
 Dism /Online /Cleanup-Image /RestoreHealth
-```
+````
 
-- DISM online repair image with [[2-Areas/MOCs/PowerShell]] cmdlet:
+* DISM online repair image with [2-Areas/MOCs/PowerShell](../../../MOCs/PowerShell.md) cmdlet:
 
-```powershell
+````powershell
 Repair-WindowsImage -Online -RestoreHealth
-```
+````
 
-- DISM online repair image
+* DISM online repair image
 
-```powershell
+````powershell
 Repair-WindowsImage -Online -RestoreHealth
-```
+````
 
-- DISM online repair image
+* DISM online repair image
 
-```powershell
+````powershell
 
-```
+````
 
-***
+---
 
 ## Appendix: Links
 
-- [[2-Areas/Code/_README|Code]]
-- [[Development]]
-- [[Windows]]
-- [[Microsoft DOS]]
-- [[Command Line]]
-- [[2-Areas/MOCs/PowerShell]]
+* *Code*
+* [Development](../../../MOCs/Development.md)
+* *Windows*
+* [Microsoft DOS](../../../../3-Resources/Tools/Developer%20Tools/Shell/Microsoft%20DOS.md)
+* *Command Line*
+* [2-Areas/MOCs/PowerShell](../../../MOCs/PowerShell.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[DISM Commands]] AND -"Changelog"
-```
+````

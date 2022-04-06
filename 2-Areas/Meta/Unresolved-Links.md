@@ -1,423 +1,416 @@
----
-Date: 2022-02-27
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
-Alias: "Unresolved-Links"
----
-
 # Unresolved-Links
 
 ---
-Date: 2022-02-27
+
+## Date: 2022-02-27
 Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
+Tags: \["#Type/Meta"\]
 Alias: "Unresolved-Links"
----
 
 # Unresolved-Links
 
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[List of Links for Data Science Notebooks and the Cloud]] in [[0-Slipbox/Actuarial Experience Studies]]
-- [[Business Intelligence]] in [[0-Slipbox/Data Warehousing Concepts and Definitions]]
-- [[Dimensional Approach to Data Warehousing]] in [[0-Slipbox/Data Warehousing Concepts and Definitions]]
-- [[Data Warehousing Concepts - Facts Measures Dimensions]] in [[0-Slipbox/Dimensional Modeling]]
-- [[Stored Procedure]] in [[0-Slipbox/ELT Cloud Based Pipeline Architecture]]
-- [[Flask Extensions]] in [[List of Python Flask Resources]], [[3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy]]
-- [[Flask-SQLAlchemy]] in [[List of Python Flask Resources]]
-- [[Flask-Login]] in [[List of Python Flask Resources]]
-- [[Flask-User]] in [[List of Python Flask Resources]]
-- [[Flask-Migrate]] in [[List of Python Flask Resources]]
-- [[Python Package - Alembic]] in [[List of Python Flask Resources]]
-- [[Flask-Session]] in [[List of Python Flask Resources]]
-- [[Flask-Caching]] in [[List of Python Flask Resources]]
-- [[Flask-WTF]] in [[List of Python Flask Resources]]
-- [[WTForms]] in [[List of Python Flask Resources]]
-- [[Flask-Mail]] in [[List of Python Flask Resources]]
-- [[Flask-Limiter]] in [[List of Python Flask Resources]]
-- [[sentry-sdk]] in [[List of Python Flask Resources]]
-- [[celery]] in [[List of Python Flask Resources]]
-- [[Flask-AzureStorage]] in [[List of Python Flask Resources]]
-- [[Flask HTTPAuth]] in [[List of Python Flask Resources]]
-- [[Flask-Restless]] in [[List of Python Flask Resources]]
-- [[Flask-RESTful]] in [[List of Python Flask Resources]]
-- [[Flask-RestPlus]] in [[List of Python Flask Resources]]
-- [[Flask-Potion]] in [[List of Python Flask Resources]]
-- [[Flask-Admin]] in [[List of Python Flask Resources]]
-- [[Backblaze]] in [[0-Slipbox/Personal Backup Strategy]]
-- [[Docker]] in [[0-Slipbox/R - Connect Shiny to PostgreSQL Database]]
-- [[R - R6]] in [[0-Slipbox/R - Connect Shiny to PostgreSQL Database]]
-- [[modern notebook environments]] in [[0-Slipbox/Reproducible Data Science with Azure Machine Learning]]
-- [[GTD Weekly Review]] in [[Ten Step GTD Setup List]], [[0-Slipbox/Weekly Review Musings]], [[2-Areas/Mindsweeps/_README]]
-- [[GTD Daily Review]] in [[Ten Step GTD Setup List]]
-- [[The GTD Mindsweep]] in [[0-Slipbox/The Ultimate Guide to an Effective Weekly Review]], [[The Ultimate Guide to an Effective Weekly Review- Highlights]]
-- [[3-Resources/Tools/PowerShell]] in [[WSL Terminal and Shell Setup Guide]], [[Azure Machine Learning]], [[MEGA CMD]]
-- [[GTD]] in [[0-Slipbox/Weekly Review Musings]], [[2-Areas/Mindsweeps/_README]], [[Can't Stay Focused While Processing - Have Tried for Months]], [[Projects Lists - November 2019]]
-- [[2021-11-07]] in [[2021-11-08]]
-- [[2021-11-09]] in [[2021-11-08]], [[2021-11-10]]
-- [[2021-11-11]] in [[2021-11-10]], [[2021-11-12]]
-- [[2021-11-13]] in [[2021-11-12]]
-- [[2021-11-14]] in [[2021-11-15]]
-- [[2021-11-18]] in [[2021-11-17]]
-- [[2021-11-20]] in [[2021-11-21]]
-- [[2021-11-22]] in [[2021-11-21]], [[2021-11-23]]
-- [[Weekly Review Checklist]] in [[2021-11-21]]
-- [[2021-11-24]] in [[2021-11-23]], [[2021-11-25]]
-- [[2022-01-26]] in [[2021-11-26]], [[2021-12-30]], [[2022-01-11]], [[Daily-Note-Template]]
-- [[2022-01-28]] in [[2021-11-26]], [[2021-12-30]], [[2022-01-11]], [[Daily-Note-Template]]
-- [[2021-11-27]] in [[2021-11-28]]
-- [[2021-11-29]] in [[2021-11-28]]
-- [[2021-11-30]] in [[2021-12-01]]
-- [[2021-12-02]] in [[2021-12-01]]
-- [[2021-12-03]] in [[2021-12-04]]
-- [[2021-12-08]] in [[2-Areas/Daily-Notes/2021-12/2021-12-07]]
-- [[2021-12-17]] in [[2021-12-18]]
-- [[2021-12-19]] in [[2021-12-18]]
-- [[2021-12-25]] in [[2021-12-26]]
-- [[2021-12-27]] in [[2021-12-26]], [[2021-12-28]]
-- [[2021-12-29]] in [[2021-12-28]]
-- [[2022-01-01]] in [[2022-01-02]]
-- [[2022-01-03]] in [[2022-01-02]]
-- [[2022-01-07]] in [[2022-01-08]]
-- [[2022-01-09]] in [[2022-01-08]], [[2022-01-10]]
-- [[2022-01-13]] in [[2022-01-12]], [[2022-01-14]]
-- [[2022-01-18]] in [[2022-01-17]]
-- [[2022-01-21]] in [[2022-01-22]]
-- [[2022-01-25]] in [[2022-01-24]], [[2022-01-26]]
-- [[2022-01-28]] in [[2022-01-27]]
-- [[Property Casualty vs Life Insurance]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Self Insurance and Captive Insurance]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Discounting Cash Flows]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Excess Loss Factors]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Actuarial Risk Allocation]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Non-Life Actuarial Coverages]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Python Package - trikit]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[SOA - Society of Actuaries]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[PirateGrunt GitHub Organization]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Open Actuarial]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Actuarial Voodoo]] in [[2-Areas/MOCs/Actuarial Science]]
-- [[Markdown]] in [[2-Areas/Meta/About]]
-- [[GitHub]] in [[2-Areas/Meta/About]]
-- [[GitHub Actions]] in [[2-Areas/Meta/About]]
-- [[MkDocs]] in [[2-Areas/Meta/About]]
-- [[Obsidian Publish]] in [[2-Areas/Meta/About]]
-- [[Obsidian Sync]] in [[2-Areas/Meta/About]]
-- [[Reference/_README]] in [[2-Areas/Meta/Vault Setup]]
-- [[Fleeting Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Literary Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Permanent Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Concept Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Structural Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Source Notes]] in [[2-Areas/Meta/Vault Setup]]
-- [[Unlinked Files]] in [[2-Areas/Meta/Vault Setup]]
-- [[Unresolved Links]] in [[2-Areas/Meta/Vault Setup]]
-- [[Dictionary]] in [[2-Areas/Meta/Vault Setup]]
-- [[Highlights]] in [[2-Areas/Meta/Vault Setup]]
-- [[Frameworks]] in [[2-Areas/Meta/Vault Setup]]
-- [[1]] in [[2-Areas/People/Bill Inmon]]
-- [[building effective productivity and PKM systems]] in [[2-Areas/People/Justin DiRose]]
-- [[Effective Remote Work]] in [[2-Areas/People/Justin DiRose]]
-- [[Systems Thinking]] in [[2-Areas/People/Niklas Luhmann]], [[SYSTEMS THINKING What Is a System]]
-- [[rinproduction.com]] in [[3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application]]
-- [[paulvanderlaken.com]] in [[10 Guidelines to Better Table Design]]
-- [[Dan Price]] in [[10 Tips to Turn Microsoft To-Do Into a Serious Task Manager]]
-- [[favorite]] in [[10 Windows Task Manager Tricks You Probably Didn’t Know]], [[11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist]], [[12 Types of Lists You Should Keep to Get Things Done]], [[3 Smart Uses of Curated Lists and How to Create Them]], [[3 Steps to Designing a Powerful Project Workflow - ProjectManager.com]], [[4 Solid Ways to Get the Best of the Web]], [[5 Pitfalls of Being an Information Hoarder  Foolishly Creative]], [[8 Ways to Free Up RAM on Your Windows Computer]], [[9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager]], [[A Workflow for R]], [[Basics of the Unix Philosophy]], [[Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services]], [[Best Practices for Outlook]], [[Bioconductor - Package Guidelines]], [[Building a Second Brain An Overview - Forte Labs]], [[Decent-Code]], [[Digital Life in Disarray Use These 6 Steps to Get Organized.]], [[Enable Code Folding in Bookdown and Blogdown · StatnMap]], [[GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH]], [[Genius Things to Do on a Sunday to Have a Productive Week]], [[Getting Things Done Clarify]], [[Getting Things Done With Todoist – My GTD Setup]], [[How to Achieve Your Daily Goals]], [[How to Build a Personal Knowledge Management System - Cultivated Management]], [[How to Build an Efficient Personal Knowledge Management System]], [[How to Declutter Your Data With No Regrets]], [[How to Distribute Data With Your R Package - R-Hub Blog]], [[How to Get Through a Paper and Digital Backlog – Gigaom]], [[How to Make Your Developer On-Boarding Process Idiot Proof]], [[How to Make Yourself Into a Learning Machine]], [[How to Properly Organize Your Hard (Boot) Drive]], [[How to Use Evernote for Your Creative Workflow - Forte Labs]], [[How to Use Todoist Tutorial]], [[It's the Programming Environment, Not the Programming Language  thesephist.com]], [[Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter]], [[List Making When Overwhelmed Turn Stress Into Productivity]], [[Managing My Personal Knowledge Base]], [[Managing Your Project - How to Make Your Research Reproducible - Library Gu]], [[On Confronting the Productivity Dragon]], [[One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs]], [[Persistent Config and Data for R Packages - R-Hub Blog]], [[Planning a Lot  Yujun Zhou's Website]], [[Productivity Overwhelm]], [[Project Management With RStudio and Github  Yujun Zhou's Website]], [[Scaling R Shiny Applications]], [[Software Roles and Titles]], [[Structure and Automated Workflow for a Machine Learning Project — part 1]], [[The 25+ Best Productivity Apps in 2020]], [[The Data Science Workflow]], [[The Digital Productivity Pyramid - Forte Labs]], [[The Notetaking Cold War]], [[The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester]], [[Ultimate Personal Management Systems - The Startup - Medium]], [[Want to Get Organized Start With the Mind Sweep]], [[What I've Learnt About Making an R Package]], [[What’s on Your Programming Reading List]], [[Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali]], [[Why Ongoing Is the Worst Word in the History of Project Management]], [[You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs]], [[Zen and the Art of File and Folder Organization]], [[Design Your Work]], [[Reproducible Research With R and RStudio]], [[Tribe of Mentors]]
-- [[tip]] in [[11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist]]
-- [[lifehack.org]] in [[13 Things to Put on Your Daily Checklist for Boosted Productivity]], [[Audiobook Review David Allen's GTD  Weekly Review]], [[Back to Basics Your Weekly Review]], [[GTD Refresh, Part 5 Building the Weekly Review Habit]]
-- [[Liked]] in [[13 Things to Put on Your Daily Checklist for Boosted Productivity]], [[Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!]], [[Data Warehouse Insurance - Kimball Group]], [[GTD Reference The Best Filing System for Busy Lives  Shortform Books]], [[Last-Minute Moving Tips How to Pack in a Pinch - Updater]], [[Obsidian, Taming a Collective Consciousness - TrustedSec]], [[Pay Off Your Debt Tools and Tips]], [[The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates]]
-- [[JR Raphael]] in [[27 Incredibly Useful Things You Didn’t Know Chrome Could Do]]
-- [[Courtney Jones]] in [[3 Smart Uses of Curated Lists and How to Create Them]]
-- [[John Furneaux]] in [[3 Steps to Managing Your Time and Maximizing Your Workday]]
-- [[Michał Stawicki]] in [[4 Great Habits to Increase Productivity, Focus, Concentration, and Determination]]
-- [[pkm]] in [[4 Solid Ways to Get the Best of the Web]]
-- [[declutter]] in [[4 Solid Ways to Get the Best of the Web]]
-- [[kalynbrooke.com]] in [[4 Steps to Organize Your Massive To-Do List]]
-- [[Softuvo Insider]] in [[5 DevOps Tools You Must Use in 2022]]
-- [[Jaleel & Nicole]] in [[5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life]]
-- [[nerdwallet.com]] in [[5 Steps for Tracking Your Monthly Expenses - NerdWallet]], [[Pay Off Your Debt Tools and Tips]]
-- [[Bryan Dijkhuizen]] in [[5 Useful Golang Modules Developers Should Know in 2021-2]]
-- [[Emmy Chamberlain]] in [[5 Useful Golang Modules Developers Should Know in 2021]]
-- [[Martin Thoma]] in [[6 YAML Features Most Programmers Don’t Know]]
-- [[quickbooost.com]] in [[62 Productive Things to Do When Bored at Home]], [[Feeling Overwhelmed 33 Productivity Tips to Get You Unstuck]], [[Genius Things to Do on a Sunday to Have a Productive Week]], [[How to Achieve Your Daily Goals]], [[How to Create an Effective Productivity Plan - Optimize Time]], [[List Making When Overwhelmed Turn Stress Into Productivity]], [[Powerful Time Management Strategies to Do More With Your Day]]
-- [[dnsstuff.com]] in [[7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff]]
-- [[thespruce.com]] in [[7 Quick Tips to Control Clutter and Stop Hoarding]]
-- [[Christopher Pappas]] in [[8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry]]
-- [[Paul Minors]] in [[3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177]]]
-- [[Anisuzzaman Babla]] in [[9 Tricks for Boosting SQL Query Performance]]
-- [[Tim Connors]] in [[A Builder’s Guide to Note-Taking]]
-- [[Esther Vaati]] in [[A Detailed Guide to User Registration, Login, and Logout in Flask]]
-- [[Kevin Lin]] in [[A Hierarchy First Approach to Note Taking]]
-- [[zenhabits]] in [[A New Year Is a Beautiful Fresh Start]]
-- [[devblogs.microsoft.com]] in [[A Preview of WSL in the Microsoft Store Is Now Available!]]
-- [[developer.mozilla.org]] in [[A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN]]
-- [[David Smith]] in [[A Workflow for R]]
-- [[firstround.com]] in [[A ‘Jobs to Be Done’ Framework for Startups]]
-- [[Abdul Wahab]] in [[API Architecture  —  Performance Best Practices for REST APIs]]
-- [[techno-pm.com]] in [[Action Items Template for Excel]]
-- [[Mitesh]] in [[Architecture for a Startup-2]], [[Architecture for a Startup]]
-- [[Marcin Kosiński]] in [[Archivist and GitHub Integration Archivist.github]]
-- [[Thanh Pham]] in [[Are You Making This GTD Mistake - Asian Efficiency]]
-- [[stevejgordon.co.uk]] in [[Become a Better Developer Through Blogging - Steve Gordon - Code With Steve]]
-- [[danfletcherblog.ca]] in [[Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog]]
-- [[Mike Williams]] in [[Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services]]
-- [[Matthew Hodgkins]] in [[Best Practices With Packer and Windows]]
-- [[codemag.com]] in [[Better ExtractTransformLoad (ETL) Practices in Data Warehousing]], [[The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
-- [[pkgdevt]] in [[Bioconductor - Package Guidelines]]
-- [[writethedocs.org]] in [[Building Documentation Mindshare in a Company — Write the Docs]]
-- [[Alan Marazzi]] in [[Building a Data Pipeline From Scratch - The Data Experience - Medium]]
-- [[tomcritchlow.com]] in [[Building a Digital Garden]]
-- [[fortelabs.co]] in [[Building a Second Brain An Overview - Forte Labs]], [[How to Use Evernote for Your Creative Workflow - Forte Labs]], [[Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs]], [[Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs]], [[One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs]], [[PARA Part 5 The Project List Mindsweep - Forte Labs]], [[PARA Part 8 Core Principles of Digital Organization - Forte Labs]], [[The Case for Digital Notes - Forte Labs]], [[The Digital Productivity Pyramid - Forte Labs]], [[The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs]], [[3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs]], [[The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs]], [[You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs]]
-- [[Originally Published]] in [[Building an Open Source Personal Knowledge Base  Hacker Noon]]
-- [[Tony Munton]] in [[Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…]]
-- [[forum.gettingthingsdone.com]] in [[Can't Stay Focused While Processing - Have Tried for Months]]
-- [[Advice]] in [[Can't Stay Focused While Processing - Have Tried for Months]]
-- [[Darryl Brooks]] in [[Clean Up Your Productivity System to Be More Productive]]
-- [[profitableventure.com]] in [[3-Resources/Highlights/Readwise/Articles/Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]]]
-- [[Dice Guest]] in [[Cloud Computing 8 Benefits for Your Software Developers - Dice Insights]]
-- [[Johanes Glenn]] in [[CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.]], [[3-Resources/Highlights/Readwise/Articles/Workflow for Serverless — Cloud Functions + Workflow [Basic]]]
-- [[Mauricio Prinzlau]] in [[Cloudwards.net's Backup and Storage Strategy 2017]]
-- [[Carl Pullein]] in [[Collecting and Organising Data for Maximum Productivity. — Carl Pullein]], [[How to Do a Weekly Planning Session.]], [[Why Organising Your To-Dos by Project Does Not Work.]]
-- [[Eleanor McKenna]] in [[Completing Tasks — 10 Steps to Finishing What You Start]]
-- [[ferd.ca]] in [[Complexity Has to Live Somewhere]]
-- [[hackersandslackers.com]] in [[3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App]]
-- [[craigsturgis.com]] in [[Craig Sturgis Dot Com]]
-- [[hbr.org]] in [[Create a Productivity Workflow That Works for You]], [[Managing Yourself Extreme Productivity]]
-- [[Matt Wrock]] in [[Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!]]
-- [[Gerrishon Sirere]] in [[Data Ecosystem]]
-- [[Kiran Mainali]] in [[DataOps Implementation Guidelines]]
-- [[calnewport.com]] in [[Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport]], [[On Confronting the Productivity Dragon]], [[The Deep Reset - Study Hacks - Cal Newport]]
-- [[Gerren Lamson]] in [[Designing Better File Organization]]
-- [[Ari]] in [[Dev Environments as Code With Containers and Visual Studio Code]]
-- [[Dror Helper]] in [[Developer GTD]]
-- [[themuse.com]] in [[Digital De-Cluttering How to Streamline Your Online Life]]
-- [[Rick Melnyck]] in [[Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump]]
-- [[howtogyst.com]] in [[Digital Decluttering Cleaning Up Computer Files & Social Media Profiles]]
-- [[Deb Lee]] in [[Digital Life in Disarray Use These 6 Steps to Get Organized.]]
-- [[jon.bo]] in [[Digital Tools I Wish Existed]]
-- [[seagate.com]] in [[3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US]]
-- [[Katarina Harbuzava]] in [[ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks]]
-- [[Marie Casas]] in [[Embracing Einstein Time]]
-- [[Sébastien Rochette]] in [[Enable Code Folding in Bookdown and Blogdown · StatnMap]]
-- [[Dunith Dhanushka]] in [[Event-Driven APIs — Understanding the Principles]]
-- [[Mohit Malhotra]] in [[Everything About Software Architecture]]
-- [[Avia Tam]] in [[Ferret — Your Local Environment Made Easy]]
-- [[Charlie Gilkey]] in [[Finishing Strong Part 1 Run a Victory Lap]]
-- [[Khe Hy]] in [[First Principles of Workflow Design (A 2-Part Episode)  RadReads]]
-- [[Keith McNulty]] in [[Five Tidyverse Tricks You May Not Know About]]
-- [[shortform.com]] in [[GTD Reference The Best Filing System for Busy Lives  Shortform Books]]
-- [[Stacey Harmon]] in [[Gaming the Naming The ABC's of Organizing Your Evernote Notebooks]]
-- [[Rich Hein]] in [[Get New IT Pros Up to Speed Fast With This Onboarding Checklist]]
-- [[personaldevelopmentideas.com]] in [[Get Organized – Personal Development Ideas]]
-- [[aws.amazon.com]] in [[3-Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services]]
-- [[joebuhlig.com]] in [[Getting Things Done Clarify]]
-- [[Zamil]] in [[Git Process for Small Organizations to Begin With]]
-- [[Michael Linenberger]] in [[Guest Post Using Todoist With MYN and 1MTD by Charles Olsen]]
-- [[Shoaib Mehedi]] in [[Habits You Must Have to Be a Highly Effective Programmers]]
-- [[Research Data Management]] in [[Home - How to Write a Good Documentation - Library Guides at UC Berkeley]]
-- [[Bruno Paz]] in [[How I Organize My Knowledge as a Software Engineer]]
-- [[Melissa Jean Clark]] in [[How I Use Evernote to Organize Client Projects]]
-- [[Jovan Cicmil]] in [[How a Single Freelancer Outperforms a Whole Team]]
-- [[dev.to]] in [[How the Web Works]], [[Kubernetes Explained to Product Managers]], [[SSH Key Best Practices]]
-- [[cultivatedmanagement.com]] in [[How to Build a Personal Knowledge Management System - Cultivated Management]]
-- [[Axton]] in [[How to Build an Efficient Personal Knowledge Management System-2]]
-- [[medium.com]] in [[How to Build an Efficient Personal Knowledge Management System]]
-- [[Chris Kyle]] in [[How to Build the Ultimate Productivity System]]
-- [[Denise Rebollido]] in [[3-Resources/Highlights/Readwise/Articles/How to Centralize Your Tasks When You’re Using Too Many Apps]]
-- [[easeus.com]] in [[How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS]]
-- [[smallbusinessprogramming.com]] in [[How to Crush It at the Start of Your New Developer Job - Small Business Programming]]
-- [[theblissfulmind.com]] in [[How to Declutter & Organize Your Digital Files]]
-- [[Mohammad Faisal]] in [[How to Design a Clean Database]]
-- [[becomeawritertoday.com]] in [[How to Do a Weekly Review Step-By-Step]]
-- [[Shalitha Suranga]] in [[How to Enhance Your Windows Batch Files by Adding GUI]]
-- [[gigaom.com]] in [[How to Get Through a Paper and Digital Backlog – Gigaom]]
-- [[Molly Stovold]] in [[How to Get and Remain Organized During Chaotic Times]]
-- [[Robert Talbert]] in [[How to Handle Inbox Infinity]]
-- [[Adrian Shepherd]] in [[How to Increase Your Efficiency at Work]]
-- [[Syed Mujtaba Jafri]] in [[How to Learn Linux and Git]]
-- [[Matt]] in [[How to Make Your Developer On-Boarding Process Idiot Proof]]
-- [[Dan Shipper]] in [[How to Make Yourself Into a Learning Machine]], [[The Notetaking Cold War]]
-- [[Shana Lebowitz]] in [[How to Make a To-Do List and Get Sh!t Done]]
-- [[home-storage-solutions-101.com]] in [[How to Organize Computer Files on Your Home Computer]]
-- [[Andrew Orr]] in [[How to Organize Your Files An Introduction to Personal File Management - The Mac Observer]]
-- [[Giorgos Petkakis]] in [[How to Organize Your Files for Maximum Productivity]]
-- [[redeemingproductivity.com]] in [[How to Organize Your Writing With Markdown - Redeeming Productivity]]
-- [[Mikhail Klassen]] in [[How to Structure Your Data Science Workflow]]
-- [[Evernote]] in [[How to Use Evernote's Advanced Search Syntax]]
-- [[developgoodhabits.com]] in [[How to Use Todoist Tutorial]]
-- [[John Zeratsky]] in [[How to Use Your Calendar to Make Every Day Your Ideal Day]]
-- [[Christopher D. Connors]] in [[How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021]]
-- [[techrepublic.com]] in [[How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File]]
-- [[Komal Venkatesh Ganesan]] in [[How to ‘DevOps’ as a Software Developer]]
-- [[Pulkit Saraf]] in [[I Built Docker Like Executable .Exe for RShiny!]]
-- [[lesswrong.com]] in [[Implementing an Idea-Management System - LessWrong 2.0]]
-- [[Bob Stanke]] in [[Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow]]
-- [[Mark Koester]] in [[Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester]], [[The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester]]
-- [[kevinslin.com]] in [[It’s Not You - It’s Your Knowledge Base]]
-- [[jevakallio.github.io]] in [[Jani’s Notes]]
-- [[blog.finxter.com]] in [[Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter]]
-- [[linkedin.com]] in [[3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn]]
-- [[updater.com]] in [[Last-Minute Moving Tips How to Pack in a Pinch - Updater]]
-- [[winaero.com]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
-- [[Windows]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
-- [[shell]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
-- [[reference]] in [[3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10]]
-- [[Thomas Kainrad]] in [[Managing My Personal Knowledge Base]]
-- [[anishathalye.com]] in [[Managing Your Dotfiles]]
-- [[Anna Sackmann]] in [[Managing Your Project - How to Make Your Research Reproducible - Library Gu]]
-- [[Mzes Social Science Data Lab]] in [[Methods Bites]]
-- [[mobydiction.ca]] in [[My Personal Knowledge Management System — Moby Diction]]
-- [[niklasblog.com]] in [[Obsidian My New Knowledge Base or Base for Knowledge]]
-- [[trustedsec.com]] in [[Obsidian, Taming a Collective Consciousness - TrustedSec]]
-- [[Arturo Ríos]] in [[One Productivity System to Rule Them All]]
-- [[Lucas Soares]] in [[Optimized Workflow]]
-- [[Ellane W]] in [[Paperless The One Notebook and Pen I’m Never Giving Up]]
-- [[Yujun Zhou]] in [[Planning a Lot  Yujun Zhou's Website]], [[Project Management With RStudio and Github  Yujun Zhou's Website]]
-- [[tutorialspoint.com]] in [[Powershell - Scripting - Tutorialspoint]]
-- [[James Stuber]] in [[Productivity Overwhelm]]
-- [[pauljacobson.me]] in [[Productivity System Archives • Paul Jacobson]]
-- [[Nikita Voloboev]] in [[Project Based Learning]]
-- [[Emily Riederer]] in [[Projmgr Managing the Human Dependencies of Your Projects  Emily Riederer]]
-- [[FacileThings]] in [[Quick Start Guide How to Start Implementing GTD Successfully]], [[The Capture Stage of GTD, Explained]]
-- [[Peter Meissner]] in [[R Treasures modifyList() › Petermeissner]], [[Re-Exporting the Magrittr Pipe Operator › Petermeissner]]
-- [[name]] in [[R Treasures modifyList() › Petermeissner]]
-- [['a']] in [[R Treasures modifyList() › Petermeissner]]
-- [[Mark Edmondson]] in [[R at Scale on the Google Cloud Platform]], [[Shiny on Google Cloud Run - Scale-To-Zero R Web Apps]]
-- [[Kelly O'Briant]] in [[R in Production, DevOps, and the Importance of Empathetic Witnesses]]
-- [[Tanmay Deshpande]] in [[RESTful API Design — Step by Step Guide]]
-- [[Jillian Rowe]] in [[RShiny Authentication With Polished on AWS Kubernetes]]
-- [[roxygen2.r-lib.org]] in [[Rd Formatting]]
-- [[Claire Minnis]] in [[Reflect, Recover, Reset – Your Life Plan 2021]]
-- [[robertmylesmcdonnell.com]] in [[Robert Myles McDonnell]]
-- [[Siva Anne]] in [[Scaling R Shiny Applications]]
-- [[Michael Krasnov]] in [[Services in Systemd In-Depth Tutorial]]
-- [[Eoda Gmbh]] in [[Shiny Load Testing and Horizontal Scaling]]
-- [[Eric Elliott]] in [[Software Roles and Titles]]
-- [[Joshua Dance]] in [[Solutions for Taking Notes When Listening to Podcasts]]
-- [[blog.r-hub.io]] in [[State of R Packages in Your Library - R-Hub Blog]]
-- [[Mateusz Bednarski]] in [[Structure and Automated Workflow for a Machine Learning Project — part 1]]
-- [[joshkel.com]] in [[Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley]]
-- [[Ashis Chakraborty]] in [[System Design Basics Load Balancer 101]]
-- [[Abracadabra]] in [[System Design Paradigm Caching]]
-- [[Francisco Sáez]] in [[Take the First Step]], [[Want to Get Organized Start With the Mind Sweep]]
-- [[zarla ludin]] in [[Taking Notes for Yourself Best Practices for the Personal Notebook]]
-- [[Jianghao Wang]] in [[Templates for R Markdown  Jianghao]]
-- [[Bauce Media Partner]] in [[The 'Weekly Review' Method Will Help You Get Things Done]]
-- [[Darien Graham-Smith]] in [[The 13-Step Digital Declutter]]
-- [[Dmytro Khmelenko]] in [[The 2 Types of Technical Documentation That  Developers Love]]
-- [[Nazareno Junior]] in [[The Actuary of the Future]]
-- [[cloud]] in [[The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
-- [[data-warehouse]] in [[The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing]]
-- [[Jim Salter]] in [[The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux]]
-- [[Tamara Kerr]] in [[The Best Way to Organize Your To-Dos]]
-- [[sivers.org]] in [[The Checklist Manifesto - By Atul Gawande  Derek Sivers]]
-- [[Dr. Stefan Karenfort]] in [[The Data Science Landscape]]
-- [[indiehackers.com]] in [[The Future of Communities Is Increasingly More About Digital Community Gardening]]
-- [[doubleyourfreelancing.com]] in [[The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing]]
-- [[Brad Jones]] in [[The Impact of the Cloud on Software Development  Developer.com]]
-- [[Edward Lamont]] in [[The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates]]
-- [[vocab]] in [[The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester]]
-- [[quote]] in [[The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester]]
-- [[Megan Holstein]] in [[The Productivity System You Use Doesn’t Matter]]
-- [[Ron Sielinski]] in [[The Role of Data Scientist A Back-Of-The-Envelope Model]]
-- [[J.R. Heimbigner]] in [[The Search for the Ultimate Productivity System-2]]
-- [[Jack Heimbigner]] in [[The Search for the Ultimate Productivity System]]
-- [[Productivity Core]] in [[The Second Brain Method]]
-- [[Jake Knapp]] in [[The “Burner List”—My Simple, Paper-Based System for Focused To-Dos]]
-- [[Ben Hardy]] in [[This Is How You Become Confident and Transform Your Life]]
-- [[Joash Xu]] in [[Three Systems I Use to Organize My Life]]
-- [[cmcrossroads.com]] in [[Top 10 Best Practices in Configuration Management]]
-- [[kitelytech.com]] in [[Top 4 Tips to Get Organized for Efficient Software Development]]
-- [[Dan Silvestre]] in [[Ultimate Personal Management Systems - The Startup - Medium]]
-- [[Jari Roomer]] in [[Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating]]
-- [[karolis.koncevicius.lt]] in [[Using Redo to Manage R Data Analysis Workflow]]
-- [[Viplove Prakash]] in [[3-Resources/Highlights/Readwise/Articles/Web Application Architecture]]
-- [[Agence Breizhtorm - Www.Breizhtorm.Fr]] in [[What's a Successful Shiny Application - Rtask]]
-- [[Amy M Haddad]] in [[What’s on Your Programming Reading List-2]]
-- [[levelup.gitconnected.com]] in [[What’s on Your Programming Reading List]]
-- [[Kan Nishida]] in [[Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali]]
-- [[mikenikles.com]] in [[Why I Use a Cloud-Based Development Environment and How You Can Too]]
-- [[Fernando Souza]] in [[Why Programmers Should Write Tutorials]]
-- [[alistapart.com]] in [[Writing Is Thinking-2]], [[Writing Is Thinking]]
-- [[Nityesh Agarwal]] in [[Writing Well A Must-Have Skill That No One Teaches Data Scientists]]
-- [[Mark Virtue]] in [[Zen and the Art of File and Folder Organization]]
-- [[Rachel Wayne]] in [[Zen to Done The Habit-Building Productivity System]]
-- [[rsangole.netlify.app]] in [[{yHat} - Reproducible Work in R]]
-- [[Febé Meyer]] in [[Clean Up and Declutter Your Computer]]
-- [[Michael Hyatt]] in [[Free to Focus]]
-- [[Christopher Gandrud]] in [[Reproducible Research With R and RStudio]]
-- [[Timothy Ferriss]] in [[Tribe of Mentors]]
-- [[Jesse Mecham]] in [[You Need a Budget]]
-- [[The Knowledge Project with Shane Parrish]] in [[3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming]], [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2]], [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation]]
-- [[Focus on This]] in [[3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons]]
-- [[Mind Meld With Josh Gonsalves]] in [[3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog]]
-- [[The Tim Ferriss Show]] in [[3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD)]], [[3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing]], [[3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More]], [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2]], [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More]], [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2]], [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko]], [[3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success]], [[3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals]], [[3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More]], [[3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More]]
-- [[The Art of Manliness]] in [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2]], [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter]], [[Stop Living on Autopilot and Take Responsibility for Your Life]]
-- [[Focused]] in [[113 —  ADHD and Cognitive Science, with Brittany Smith]], [[132 —  Willpower and Your Environment]]
-- [[The Bitcoin Standard Podcast]] in [[27. The Underlying Technology Behind Fiat Standard]]
-- [[Getting Things Done® podcast from GTDnordic]] in [[3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material]]
-- [[The James Altucher Show]] in [[677 - The Art of Impossible With Steven Kotler!]]
-- [[Not Overthinking]] in [[68 Bits of Unsolicited Advice-2]], [[68 Bits of Unsolicited Advice]], [[Austin Kleon on Writing, Creativity and the Importance of Idleness]], [[Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan]], [[Competitiveness and Mimetic Traps]]
-- [[Software Engineering Daily]] in [[Argo —  Kubernetes-Native Tools with Alex Collins]], [[Data Discovery with Shinji Kim]], [[Infrastructure as Code with Christian Tragesser]]
-- [[Deep Questions with Cal Newport]] in [[Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2]], [[Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS]], [[Ep. 101 —  Does Productivity Impede the Deep Life]], [[Ep. 108 —  LISTENER CALLS —  Becoming Productive]], [[Ep. 109 —  How Much Should I Read]], [[Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy]], [[Ep. 125 —  What is Discipline (and How Do I Get It)]], [[Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth]], [[Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS]], [[Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon]], [[Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS]], [[Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS]], [[Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth]], [[Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking]], [[Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS]], [[Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness]], [[Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time]], [[Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow]], [[Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS]], [[Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems]], [[Ep. 65 —  Is Productivity Bad]], [[Ep. 69 —  How Do I Find Joy in Leisure]], [[Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much]], [[Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)]], [[Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling]], [[Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS]], [[Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days]], [[Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless]], [[Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job]], [[My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS]], [[Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS]], [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2]], [[Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS]], [[Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS]]
-- [[The Building a Second Brain Podcast]] in [[Borrowed Creativity]]
-- [[Beyond the To-Do List]] in [[Dorie Clark on the power of Long Term Thinking]], [[Jaime Masters on Focus, Flow, Time Tracking and Nootropics]], [[Megan McNealy on Achieving Optimal Productivity Through Well-being]]
-- [[Exponent]] in [[Exponent 188 — Big Tech, Antitrust, and Democracy-2]], [[Exponent 188 — Big Tech, Antitrust, and Democracy]]
-- [[Before Breakfast]] in [[Find your finish line]]
-- [[The Rich Roll Podcast]] in [[He Ran Across America — On Plants]]
-- [[The Productivity Show: Time Management]] in [[How To Recover From A Bad Day (TPS374)]]
-- [[TRAINED]] in [[Laurie Santos, PhD  Simple Ways to Live a Happier Life]]
-- [[Developer Tea]] in [[Limit Your Options By Limiting Your Obligations]]
-- [[The Changelog: Software Development, Open Source]] in [[Oh my! Zsh.]], [[The business model of open source]]
-- [[Teaching in Higher Ed]] in [[Personal Knowledge Management Reprised]]
-- [[Change Your Game with GTD®]] in [[3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]]
-- [[The Mindset Mentor]] in [[This Is How We Change the World]]
-- [[Techmeme Ride Home]] in [[Wed. 0929 – Is Amazon’s Astro Robot… Ready]]
-- [[3-Resources/Highlights/Readwise/_README]] in [[3-Resources/Highlights/_README]]
-- [[Azure Synapse Analytics]] in [[Azure Machine Learning]]
-- [[Azure Arc]] in [[Azure Machine Learning]]
-- [[Kubernetes]] in [[Azure Machine Learning]]
-- [[Azure SQL Database]] in [[Azure Machine Learning]]
-- [[Azure Storage Blobs]] in [[Azure Machine Learning]]
-- [[Azure App Service]] in [[Azure Machine Learning]]
-- [[Streaks]] in [[Productivity Apps List]]
-- [[Toggl]] in [[Productivity Apps List]]
-- [[Instapaper]] in [[Productivity Apps List]]
-- [[Feedly]] in [[Productivity Apps List]]
-- [[Evernote]] in [[Productivity Apps List]]
-- [[Momentum]] in [[Productivity Apps List]]
-- [[CLI Tools List]] in [[Todoist-CLI]]
-- [[Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]] in [[Changelog]]
-- [[54. Listener questions #7 —  Big projects vs sub-projects and where to store support material]] in [[Changelog]]
-- [[Workflow for Serverless — Cloud Functions + Workflow [Basic]] in [[Changelog]], [[Unlinked-Files]]
-- [[Cloud Based Computing Business Ideas for 2021 [Top 50 Picks]] in [[Changelog]], [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You # 53]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/54. Listener questions #7 —  Big projects vs sub-projects and where to store support material]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#88 Derek Sivers Innovation Versus Imitation-2]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#634 How to Design Conversations That Matter-2]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#447 Books I've Loved — Ann Miura-Ko-2]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#401 —  Gary Keller — How to Focus on the One Important Thing]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#384 —  David Allen — The Art of Getting Things Done (GTD)]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#23 Nat Eliason on Starting a Life-Changing Blog]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#110 —  How to Clear Your Calendar in Your Busiest Seasons]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Podcasts/#101 Jane McGonigal The Psychology of Gaming]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP #177]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Articles/#6 Practicing - Tips From the Clean Coder - DEV]] in [[Unlinked-Files]]
-- [[3-Resources/Highlights/Readwise/Articles/#5 8 Tips for a Production-Ready Shiny Application]] in [[Unlinked-Files]]
 
+* *List of Links for Data Science Notebooks and the Cloud* in [0-Slipbox/Actuarial Experience Studies](../../0-Slipbox/Actuarial%20Experience%20Studies.md)
+* *Business Intelligence* in [0-Slipbox/Data Warehousing Concepts and Definitions](../../0-Slipbox/Data%20Warehousing%20Concepts%20and%20Definitions.md)
+* *Dimensional Approach to Data Warehousing* in [0-Slipbox/Data Warehousing Concepts and Definitions](../../0-Slipbox/Data%20Warehousing%20Concepts%20and%20Definitions.md)
+* *Data Warehousing Concepts - Facts Measures Dimensions* in [0-Slipbox/Dimensional Modeling](../../0-Slipbox/Dimensional%20Modeling.md)
+* *Stored Procedure* in [0-Slipbox/ELT Cloud Based Pipeline Architecture](../../0-Slipbox/ELT%20Cloud%20Based%20Pipeline%20Architecture.md)
+* *Flask Extensions* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md), *3-Resources/Tools/Python/Python Packages 1/Python Package - SQLAlchemy*
+* *Flask-SQLAlchemy* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Login* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-User* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Migrate* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Python Package - Alembic* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Session* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Caching* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-WTF* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *WTForms* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Mail* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Limiter* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *sentry-sdk* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *celery* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-AzureStorage* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask HTTPAuth* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Restless* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-RESTful* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-RestPlus* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Potion* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Flask-Admin* in [List of Python Flask Resources](../Lists/List%20of%20Python%20Flask%20Resources.md)
+* *Backblaze* in [0-Slipbox/Personal Backup Strategy](../../0-Slipbox/Personal%20Backup%20Strategy.md)
+* [Docker](../../3-Resources/Tools/Developer%20Tools/Docker/Docker.md) in [0-Slipbox/R - Connect Shiny to PostgreSQL Database](../../0-Slipbox/R%20-%20Connect%20Shiny%20to%20PostgreSQL%20Database.md)
+* *R - R6* in [0-Slipbox/R - Connect Shiny to PostgreSQL Database](../../0-Slipbox/R%20-%20Connect%20Shiny%20to%20PostgreSQL%20Database.md)
+* *modern notebook environments* in [0-Slipbox/Reproducible Data Science with Azure Machine Learning](../../0-Slipbox/Reproducible%20Data%20Science%20with%20Azure%20Machine%20Learning.md)
+* *GTD Weekly Review* in [Ten Step GTD Setup List](../Lists/Ten%20Step%20GTD%20Setup%20List.md), [0-Slipbox/Weekly Review Musings](../../0-Slipbox/Weekly%20Review%20Musings.md), *2-Areas/Mindsweeps/_README*
+* *GTD Daily Review* in [Ten Step GTD Setup List](../Lists/Ten%20Step%20GTD%20Setup%20List.md)
+* *The GTD Mindsweep* in [0-Slipbox/The Ultimate Guide to an Effective Weekly Review](../../0-Slipbox/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review.md), [The Ultimate Guide to an Effective Weekly Review- Highlights](../../3-Resources/Highlights/Notes/The%20Ultimate%20Guide%20to%20an%20Effective%20Weekly%20Review-%20Highlights.md)
+* *3-Resources/Tools/PowerShell* in [WSL Terminal and Shell Setup Guide](../Content/Guides/WSL%20Terminal%20and%20Shell%20Setup%20Guide.md), [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md), [MEGA CMD](../../3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/MEGA%20CMD.md)
+* *GTD* in [0-Slipbox/Weekly Review Musings](../../0-Slipbox/Weekly%20Review%20Musings.md), *2-Areas/Mindsweeps/_README*, [Can't Stay Focused While Processing - Have Tried for Months](../../3-Resources/Highlights/Readwise/Articles/Can't%20Stay%20Focused%20While%20Processing%20-%20Have%20Tried%20for%20Months.md), [Projects Lists - November 2019](../../3-Resources/Highlights/Readwise/Podcasts/Projects%20Lists%20-%20November%202019.md)
+* *2021-11-07* in [2021-11-08](../Daily-Notes/2021-11/2021-11-08.md)
+* *2021-11-09* in [2021-11-08](../Daily-Notes/2021-11/2021-11-08.md), [2021-11-10](../Daily-Notes/2021-11/2021-11-10.md)
+* *2021-11-11* in [2021-11-10](../Daily-Notes/2021-11/2021-11-10.md), [2021-11-12](../Daily-Notes/2021-11/2021-11-12.md)
+* *2021-11-13* in [2021-11-12](../Daily-Notes/2021-11/2021-11-12.md)
+* *2021-11-14* in [2021-11-15](../Daily-Notes/2021-11/2021-11-15.md)
+* *2021-11-18* in [2021-11-17](../Daily-Notes/2021-11/2021-11-17.md)
+* *2021-11-20* in [2021-11-21](../Daily-Notes/2021-11/2021-11-21.md)
+* *2021-11-22* in [2021-11-21](../Daily-Notes/2021-11/2021-11-21.md), [2021-11-23](../Daily-Notes/2021-11/2021-11-23.md)
+* *Weekly Review Checklist* in [2021-11-21](../Daily-Notes/2021-11/2021-11-21.md)
+* *2021-11-24* in [2021-11-23](../Daily-Notes/2021-11/2021-11-23.md), [2021-11-25](../Daily-Notes/2021-11/2021-11-25.md)
+* [2022-01-26](../Daily-Notes/2022-01/2022-01-26.md) in [2021-11-26](../Daily-Notes/2021-11/2021-11-26.md), *2021-12-30*, *2022-01-11*, *Daily-Note-Template*
+* [2022-01-28](../Daily-Notes/2022-01/2022-01-28.md) in [2021-11-26](../Daily-Notes/2021-11/2021-11-26.md), *2021-12-30*, *2022-01-11*, *Daily-Note-Template*
+* *2021-11-27* in [2021-11-28](../Daily-Notes/2021-11/2021-11-28.md)
+* *2021-11-29* in [2021-11-28](../Daily-Notes/2021-11/2021-11-28.md)
+* *2021-11-30* in [2021-12-01](../Daily-Notes/2021-12/2021-12-01.md)
+* *2021-12-02* in [2021-12-01](../Daily-Notes/2021-12/2021-12-01.md)
+* *2021-12-03* in [2021-12-04](../Daily-Notes/2021-12/2021-12-04.md)
+* *2021-12-08* in [2-Areas/Daily-Notes/2021-12/2021-12-07](../Daily-Notes/2021-12/2021-12-07.md)
+* *2021-12-17* in [2021-12-18](../Daily-Notes/2021-12/2021-12-18.md)
+* *2021-12-19* in [2021-12-18](../Daily-Notes/2021-12/2021-12-18.md)
+* *2021-12-25* in [2021-12-26](../Daily-Notes/2021-12/2021-12-26.md)
+* *2021-12-27* in [2021-12-26](../Daily-Notes/2021-12/2021-12-26.md), [2021-12-28](../Daily-Notes/2021-12/2021-12-28.md)
+* *2021-12-29* in [2021-12-28](../Daily-Notes/2021-12/2021-12-28.md)
+* *2022-01-01* in [2022-01-02](../Daily-Notes/2022-01/2022-01-02.md)
+* *2022-01-03* in [2022-01-02](../Daily-Notes/2022-01/2022-01-02.md)
+* *2022-01-07* in [2022-01-08](../Daily-Notes/2022-01/2022-01-08.md)
+* *2022-01-09* in [2022-01-08](../Daily-Notes/2022-01/2022-01-08.md), [2022-01-10](../Daily-Notes/2022-01/2022-01-10.md)
+* *2022-01-13* in [2022-01-12](../Daily-Notes/2022-01/2022-01-12.md), [2022-01-14](../Daily-Notes/2022-01/2022-01-14.md)
+* *2022-01-18* in [2022-01-17](../Daily-Notes/2022-01/2022-01-17.md)
+* *2022-01-21* in [2022-01-22](../Daily-Notes/2022-01/2022-01-22.md)
+* *2022-01-25* in [2022-01-24](../Daily-Notes/2022-01/2022-01-24.md), [2022-01-26](../Daily-Notes/2022-01/2022-01-26.md)
+* [2022-01-28](../Daily-Notes/2022-01/2022-01-28.md) in [2022-01-27](../Daily-Notes/2022-01/2022-01-27.md)
+* *Property Casualty vs Life Insurance* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Self Insurance and Captive Insurance* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Discounting Cash Flows* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Excess Loss Factors* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Actuarial Risk Allocation* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Non-Life Actuarial Coverages* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Python Package - trikit* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *SOA - Society of Actuaries* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *PirateGrunt GitHub Organization* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Open Actuarial* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Actuarial Voodoo* in [2-Areas/MOCs/Actuarial Science](../MOCs/Actuarial%20Science.md)
+* *Markdown* in [2-Areas/Meta/About](About.md)
+* [GitHub](../../3-Resources/Tools/Developer%20Tools/Version%20Control/GitHub.md) in [2-Areas/Meta/About](About.md)
+* *GitHub Actions* in [2-Areas/Meta/About](About.md)
+* [MkDocs](../../3-Resources/Tools/Developer%20Tools/Documentation/Static%20Site%20Generators/MkDocs.md) in [2-Areas/Meta/About](About.md)
+* *Obsidian Publish* in [2-Areas/Meta/About](About.md)
+* *Obsidian Sync* in [2-Areas/Meta/About](About.md)
+* *Reference/_README* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Fleeting Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Literary Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Permanent Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Concept Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Structural Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Source Notes* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Unlinked Files* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Unresolved Links* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Dictionary* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Highlights* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *Frameworks* in [2-Areas/Meta/Vault Setup](Vault%20Setup.md)
+* *1* in [2-Areas/People/Bill Inmon](../People/Bill%20Inmon.md)
+* *building effective productivity and PKM systems* in [2-Areas/People/Justin DiRose](../People/Justin%20DiRose.md)
+* *Effective Remote Work* in [2-Areas/People/Justin DiRose](../People/Justin%20DiRose.md)
+* *Systems Thinking* in [2-Areas/People/Niklas Luhmann](../People/Niklas%20Luhmann.md), [SYSTEMS THINKING What Is a System](../../3-Resources/Highlights/Readwise/Podcasts/SYSTEMS%20THINKING%20What%20Is%20a%20System.md)
+* *rinproduction.com* in *3-Resources/Highlights/Readwise/Articles/ > 5 8 Tips for a Production-Ready Shiny Application*
+* *paulvanderlaken.com* in [10 Guidelines to Better Table Design](../../3-Resources/Highlights/Readwise/Articles/10%20Guidelines%20to%20Better%20Table%20Design.md)
+* *Dan Price* in [10 Tips to Turn Microsoft To-Do Into a Serious Task Manager](../../3-Resources/Highlights/Readwise/Articles/10%20Tips%20to%20Turn%20Microsoft%20To-Do%20Into%20a%20Serious%20Task%20Manager.md)
+* *favorite* in [10 Windows Task Manager Tricks You Probably Didn’t Know](../../3-Resources/Highlights/Readwise/Articles/10%20Windows%20Task%20Manager%20Tricks%20You%20Probably%20Didn%E2%80%99t%20Know.md), [11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist](../../3-Resources/Highlights/Readwise/Articles/11%20Fast%20Ways%20to%20Get%20Tasks%20Off%20Your%20Mind%20and%20Into%20Your%20Todoist.md), [12 Types of Lists You Should Keep to Get Things Done](../../3-Resources/Highlights/Readwise/Articles/12%20Types%20of%20Lists%20You%20Should%20Keep%20to%20Get%20Things%20Done.md), [3 Smart Uses of Curated Lists and How to Create Them](../../3-Resources/Highlights/Readwise/Articles/3%20Smart%20Uses%20of%20Curated%20Lists%20and%20How%20to%20Create%20Them.md), [3 Steps to Designing a Powerful Project Workflow - ProjectManager.com](../../3-Resources/Highlights/Readwise/Articles/3%20Steps%20to%20Designing%20a%20Powerful%20Project%20Workflow%20-%20ProjectManager.com.md), [4 Solid Ways to Get the Best of the Web](../../3-Resources/Highlights/Readwise/Articles/4%20Solid%20Ways%20to%20Get%20the%20Best%20of%20the%20Web.md), [5 Pitfalls of Being an Information Hoarder  Foolishly Creative](../../3-Resources/Highlights/Readwise/Articles/5%20Pitfalls%20of%20Being%20an%20Information%20Hoarder%20%20Foolishly%20Creative.md), [8 Ways to Free Up RAM on Your Windows Computer](../../3-Resources/Highlights/Readwise/Articles/8%20Ways%20to%20Free%20Up%20RAM%20on%20Your%20Windows%20Computer.md), [9 Project Controls & How to Use Them to Tame Your Project Chaos - The Digital Project Manager](../../3-Resources/Highlights/Readwise/Articles/9%20Project%20Controls%20&%20How%20to%20Use%20Them%20to%20Tame%20Your%20Project%20Chaos%20-%20The%20Digital%20Project%20Manager.md), [A Workflow for R](../../3-Resources/Highlights/Readwise/Articles/A%20Workflow%20for%20R.md), [Basics of the Unix Philosophy](../../3-Resources/Highlights/Readwise/Articles/Basics%20of%20the%20Unix%20Philosophy.md), [Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services](../../3-Resources/Highlights/Readwise/Articles/Best%20Free,%20Public%20DNS%20Servers%20in%202021%20Boost%20Your%20Internet%20Speed%20With%20These%20Services.md), [Best Practices for Outlook](../../3-Resources/Highlights/Readwise/Articles/Best%20Practices%20for%20Outlook.md), [Bioconductor - Package Guidelines](../../3-Resources/Highlights/Readwise/Articles/Bioconductor%20-%20Package%20Guidelines.md), [Building a Second Brain An Overview - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/Building%20a%20Second%20Brain%20An%20Overview%20-%20Forte%20Labs.md), [Decent-Code](../../3-Resources/Highlights/Readwise/Articles/Decent-Code.md), [Digital Life in Disarray Use These 6 Steps to Get Organized.](../../3-Resources/Highlights/Readwise/Articles/Digital%20Life%20in%20Disarray%20Use%20These%206%20Steps%20to%20Get%20Organized..md), [Enable Code Folding in Bookdown and Blogdown · StatnMap](../../3-Resources/Highlights/Readwise/Articles/Enable%20Code%20Folding%20in%20Bookdown%20and%20Blogdown%20%C2%B7%20StatnMap.md), [GTD With Todoist, Evernote and Google Calendar (Part 2)  Dr Veronika CH](../../3-Resources/Highlights/Readwise/Articles/GTD%20With%20Todoist,%20Evernote%20and%20Google%20Calendar%20%28Part%202%29%20%20Dr%20Veronika%20CH.md), [Genius Things to Do on a Sunday to Have a Productive Week](../../3-Resources/Highlights/Readwise/Articles/Genius%20Things%20to%20Do%20on%20a%20Sunday%20to%20Have%20a%20Productive%20Week.md), [Getting Things Done Clarify](../../3-Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20Clarify.md), [Getting Things Done With Todoist – My GTD Setup](../../3-Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20With%20Todoist%20%E2%80%93%20My%20GTD%20Setup.md), [How to Achieve Your Daily Goals](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Achieve%20Your%20Daily%20Goals.md), [How to Build a Personal Knowledge Management System - Cultivated Management](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20a%20Personal%20Knowledge%20Management%20System%20-%20Cultivated%20Management.md), [How to Build an Efficient Personal Knowledge Management System](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20an%20Efficient%20Personal%20Knowledge%20Management%20System.md), [How to Declutter Your Data With No Regrets](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Declutter%20Your%20Data%20With%20No%20Regrets.md), [How to Distribute Data With Your R Package - R-Hub Blog](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Distribute%20Data%20With%20Your%20R%20Package%20-%20R-Hub%20Blog.md), [How to Get Through a Paper and Digital Backlog – Gigaom](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Get%20Through%20a%20Paper%20and%20Digital%20Backlog%20%E2%80%93%20Gigaom.md), [How to Make Your Developer On-Boarding Process Idiot Proof](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Make%20Your%20Developer%20On-Boarding%20Process%20Idiot%20Proof.md), [How to Make Yourself Into a Learning Machine](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Make%20Yourself%20Into%20a%20Learning%20Machine.md), [How to Properly Organize Your Hard (Boot) Drive](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Properly%20Organize%20Your%20Hard%20%28Boot%29%20Drive.md), [How to Use Evernote for Your Creative Workflow - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Evernote%20for%20Your%20Creative%20Workflow%20-%20Forte%20Labs.md), [How to Use Todoist Tutorial](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Todoist%20Tutorial.md), [It's the Programming Environment, Not the Programming Language  thesephist.com](../../3-Resources/Highlights/Readwise/Articles/It's%20the%20Programming%20Environment,%20Not%20the%20Programming%20Language%20%20thesephist.com.md), [Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter](../../3-Resources/Highlights/Readwise/Articles/Keep%20It%20Simple,%20Stupid!%20Minimalism%20in%20Programming%20How%20Complexity%20Harms%20Your%20Productivity%20%20Finxter.md), [List Making When Overwhelmed Turn Stress Into Productivity](../../3-Resources/Highlights/Readwise/Articles/List%20Making%20When%20Overwhelmed%20Turn%20Stress%20Into%20Productivity.md), [Managing My Personal Knowledge Base](../../3-Resources/Highlights/Readwise/Articles/Managing%20My%20Personal%20Knowledge%20Base.md), [Managing Your Project - How to Make Your Research Reproducible - Library Gu](../../3-Resources/Highlights/Readwise/Articles/Managing%20Your%20Project%20-%20How%20to%20Make%20Your%20Research%20Reproducible%20-%20Library%20Gu.md), [On Confronting the Productivity Dragon](../../3-Resources/Highlights/Readwise/Articles/On%20Confronting%20the%20Productivity%20Dragon.md), [One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/One-Touch%20to%20Inbox%20Zero%20How%20I%20Spend%2017%20Minutes%20Per%20Day%20on%20Email%20-%20Forte%20Labs.md), [Persistent Config and Data for R Packages - R-Hub Blog](../../3-Resources/Highlights/Readwise/Articles/Persistent%20Config%20and%20Data%20for%20R%20Packages%20-%20R-Hub%20Blog.md), [Planning a Lot  Yujun Zhou's Website](../../3-Resources/Highlights/Readwise/Articles/Planning%20a%20Lot%20%20Yujun%20Zhou's%20Website.md), [Productivity Overwhelm](../../3-Resources/Highlights/Readwise/Articles/Productivity%20Overwhelm.md), [Project Management With RStudio and Github  Yujun Zhou's Website](../../3-Resources/Highlights/Readwise/Articles/Project%20Management%20With%20RStudio%20and%20Github%20%20Yujun%20Zhou's%20Website.md), [Scaling R Shiny Applications](../../3-Resources/Highlights/Readwise/Articles/Scaling%20R%20Shiny%20Applications.md), [Software Roles and Titles](../../3-Resources/Highlights/Readwise/Articles/Software%20Roles%20and%20Titles.md), [Structure and Automated Workflow for a Machine Learning Project — part 1](../../3-Resources/Highlights/Readwise/Articles/Structure%20and%20Automated%20Workflow%20for%20a%20Machine%20Learning%20Project%E2%80%8A%E2%80%94%E2%80%8Apart%201.md), [The 25+ Best Productivity Apps in 2020](../../3-Resources/Highlights/Readwise/Articles/The%2025+%20Best%20Productivity%20Apps%20in%202020.md), [The Data Science Workflow](../../3-Resources/Highlights/Readwise/Articles/The%20Data%20Science%20Workflow.md), [The Digital Productivity Pyramid - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20Digital%20Productivity%20Pyramid%20-%20Forte%20Labs.md), [The Notetaking Cold War](../../3-Resources/Highlights/Readwise/Articles/The%20Notetaking%20Cold%20War.md), [The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester](../../3-Resources/Highlights/Readwise/Articles/The%20Power%20of%20Systematic%20Notes%20A%20Book%20Review%20of%20How%20to%20Take%20Smart%20Notes%20by%20S%C3%B6nke%20Ahrens%20-%20Mark%20Koester.md), [Ultimate Personal Management Systems - The Startup - Medium](../../3-Resources/Highlights/Readwise/Articles/Ultimate%20Personal%20Management%20Systems%20-%20The%20Startup%20-%20Medium.md), [Want to Get Organized Start With the Mind Sweep](../../3-Resources/Highlights/Readwise/Articles/Want%20to%20Get%20Organized%20Start%20With%20the%20Mind%20Sweep.md), [What I've Learnt About Making an R Package](../../3-Resources/Highlights/Readwise/Articles/What%20I've%20Learnt%20About%20Making%20an%20R%20Package.md), [What’s on Your Programming Reading List](../../3-Resources/Highlights/Readwise/Articles/What%E2%80%99s%20on%20Your%20Programming%20Reading%20List.md), [Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali](../../3-Resources/Highlights/Readwise/Articles/Why%20Factor%20Is%20One%20of%20the%20Most%20Amazing%20Things%20in%20R%20&%20Forcats%20Helps%20You%20Reali.md), [Why Ongoing Is the Worst Word in the History of Project Management](../../3-Resources/Highlights/Readwise/Articles/Why%20Ongoing%20Is%20the%20Worst%20Word%20in%20the%20History%20of%20Project%20Management.md), [You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/You%20Need%20a%20Budget%2013%20Parallels%20Between%20Money%20and%20Productivity%20-%20Forte%20Labs.md), [Zen and the Art of File and Folder Organization](../../3-Resources/Highlights/Readwise/Articles/Zen%20and%20the%20Art%20of%20File%20and%20Folder%20Organization.md), [Design Your Work](../../3-Resources/Highlights/Readwise/Books/Design%20Your%20Work.md), [Reproducible Research With R and RStudio](../../3-Resources/Highlights/Readwise/Books/Reproducible%20Research%20With%20R%20and%20RStudio.md), [Tribe of Mentors](../../3-Resources/Highlights/Readwise/Books/Tribe%20of%20Mentors.md)
+* *tip* in [11 Fast Ways to Get Tasks Off Your Mind and Into Your Todoist](../../3-Resources/Highlights/Readwise/Articles/11%20Fast%20Ways%20to%20Get%20Tasks%20Off%20Your%20Mind%20and%20Into%20Your%20Todoist.md)
+* *lifehack.org* in [13 Things to Put on Your Daily Checklist for Boosted Productivity](../../3-Resources/Highlights/Readwise/Articles/13%20Things%20to%20Put%20on%20Your%20Daily%20Checklist%20for%20Boosted%20Productivity.md), [Audiobook Review David Allen's GTD  Weekly Review](../../3-Resources/Highlights/Readwise/Articles/Audiobook%20Review%20David%20Allen's%20GTD%20%20Weekly%20Review.md), [Back to Basics Your Weekly Review](../../3-Resources/Highlights/Readwise/Articles/Back%20to%20Basics%20Your%20Weekly%20Review.md), [GTD Refresh, Part 5 Building the Weekly Review Habit](../../3-Resources/Highlights/Readwise/Articles/GTD%20Refresh,%20Part%205%20Building%20the%20Weekly%20Review%20Habit.md)
+* *Liked* in [13 Things to Put on Your Daily Checklist for Boosted Productivity](../../3-Resources/Highlights/Readwise/Articles/13%20Things%20to%20Put%20on%20Your%20Daily%20Checklist%20for%20Boosted%20Productivity.md), [Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!](../../3-Resources/Highlights/Readwise/Articles/Creating%20Windows%20Base%20Images%20Using%20Packer%20and%20Boxstarter%20%E2%80%94%20Hurry%20Up%20and%20Wait!.md), [Data Warehouse Insurance - Kimball Group](../../3-Resources/Highlights/Readwise/Articles/Data%20Warehouse%20Insurance%20-%20Kimball%20Group.md), [GTD Reference The Best Filing System for Busy Lives  Shortform Books](../../3-Resources/Highlights/Readwise/Articles/GTD%20Reference%20The%20Best%20Filing%20System%20for%20Busy%20Lives%20%20Shortform%20Books.md), [Last-Minute Moving Tips How to Pack in a Pinch - Updater](../../3-Resources/Highlights/Readwise/Articles/Last-Minute%20Moving%20Tips%20How%20to%20Pack%20in%20a%20Pinch%20-%20Updater.md), [Obsidian, Taming a Collective Consciousness - TrustedSec](../../3-Resources/Highlights/Readwise/Articles/Obsidian,%20Taming%20a%20Collective%20Consciousness%20-%20TrustedSec.md), [Pay Off Your Debt Tools and Tips](../../3-Resources/Highlights/Readwise/Articles/Pay%20Off%20Your%20Debt%20Tools%20and%20Tips.md), [The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates](../../3-Resources/Highlights/Readwise/Articles/The%20Nitty-Gritty%20%E2%80%93%20Clearing%20Out%20Your%20Inbox%20-%20Next%20Action%20Associates.md)
+* *JR Raphael* in [27 Incredibly Useful Things You Didn’t Know Chrome Could Do](../../3-Resources/Highlights/Readwise/Articles/27%20Incredibly%20Useful%20Things%20You%20Didn%E2%80%99t%20Know%20Chrome%20Could%20Do.md)
+* *Courtney Jones* in [3 Smart Uses of Curated Lists and How to Create Them](../../3-Resources/Highlights/Readwise/Articles/3%20Smart%20Uses%20of%20Curated%20Lists%20and%20How%20to%20Create%20Them.md)
+* *John Furneaux* in [3 Steps to Managing Your Time and Maximizing Your Workday](../../3-Resources/Highlights/Readwise/Articles/3%20Steps%20to%20Managing%20Your%20Time%20and%20Maximizing%20Your%20Workday.md)
+* *Michał Stawicki* in [4 Great Habits to Increase Productivity, Focus, Concentration, and Determination](../../3-Resources/Highlights/Readwise/Articles/4%20Great%20Habits%20to%20Increase%20Productivity,%20Focus,%20Concentration,%20and%20Determination.md)
+* *pkm* in [4 Solid Ways to Get the Best of the Web](../../3-Resources/Highlights/Readwise/Articles/4%20Solid%20Ways%20to%20Get%20the%20Best%20of%20the%20Web.md)
+* *declutter* in [4 Solid Ways to Get the Best of the Web](../../3-Resources/Highlights/Readwise/Articles/4%20Solid%20Ways%20to%20Get%20the%20Best%20of%20the%20Web.md)
+* *kalynbrooke.com* in [4 Steps to Organize Your Massive To-Do List](../../3-Resources/Highlights/Readwise/Articles/4%20Steps%20to%20Organize%20Your%20Massive%20To-Do%20List.md)
+* *Softuvo Insider* in [5 DevOps Tools You Must Use in 2022](../../3-Resources/Highlights/Readwise/Articles/5%20DevOps%20Tools%20You%20Must%20Use%20in%202022.md)
+* *Jaleel & Nicole* in [5 Quotes by Keanu Reeves That May Help You Live an Authentic and Wholesome Life](../../3-Resources/Highlights/Readwise/Articles/5%20Quotes%20by%20Keanu%20Reeves%20That%20May%20Help%20You%20Live%20an%20Authentic%20and%20Wholesome%20Life.md)
+* *nerdwallet.com* in [5 Steps for Tracking Your Monthly Expenses - NerdWallet](../../3-Resources/Highlights/Readwise/Articles/5%20Steps%20for%20Tracking%20Your%20Monthly%20Expenses%20-%20NerdWallet.md), [Pay Off Your Debt Tools and Tips](../../3-Resources/Highlights/Readwise/Articles/Pay%20Off%20Your%20Debt%20Tools%20and%20Tips.md)
+* *Bryan Dijkhuizen* in [5 Useful Golang Modules Developers Should Know in 2021-2](../../3-Resources/Highlights/Readwise/Articles/5%20Useful%20Golang%20Modules%20Developers%20Should%20Know%20in%202021-2.md)
+* *Emmy Chamberlain* in [5 Useful Golang Modules Developers Should Know in 2021](../../3-Resources/Highlights/Readwise/Articles/5%20Useful%20Golang%20Modules%20Developers%20Should%20Know%20in%202021.md)
+* *Martin Thoma* in [6 YAML Features Most Programmers Don’t Know](../../3-Resources/Highlights/Readwise/Articles/6%20YAML%20Features%20Most%20Programmers%20Don%E2%80%99t%20Know.md)
+* *quickbooost.com* in [62 Productive Things to Do When Bored at Home](../../3-Resources/Highlights/Readwise/Articles/62%20Productive%20Things%20to%20Do%20When%20Bored%20at%20Home.md), [Feeling Overwhelmed 33 Productivity Tips to Get You Unstuck](../../3-Resources/Highlights/Readwise/Articles/Feeling%20Overwhelmed%2033%20Productivity%20Tips%20to%20Get%20You%20Unstuck.md), [Genius Things to Do on a Sunday to Have a Productive Week](../../3-Resources/Highlights/Readwise/Articles/Genius%20Things%20to%20Do%20on%20a%20Sunday%20to%20Have%20a%20Productive%20Week.md), [How to Achieve Your Daily Goals](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Achieve%20Your%20Daily%20Goals.md), [How to Create an Effective Productivity Plan - Optimize Time](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Create%20an%20Effective%20Productivity%20Plan%20-%20Optimize%20Time.md), [List Making When Overwhelmed Turn Stress Into Productivity](../../3-Resources/Highlights/Readwise/Articles/List%20Making%20When%20Overwhelmed%20Turn%20Stress%20Into%20Productivity.md), [Powerful Time Management Strategies to Do More With Your Day](../../3-Resources/Highlights/Readwise/Articles/Powerful%20Time%20Management%20Strategies%20to%20Do%20More%20With%20Your%20Day.md)
+* *dnsstuff.com* in [7 Best DNS Monitoring Tools + How to Monitor DNS Server - DNSstuff](../../3-Resources/Highlights/Readwise/Articles/7%20Best%20DNS%20Monitoring%20Tools%20+%20How%20to%20Monitor%20DNS%20Server%20-%20DNSstuff.md)
+* *thespruce.com* in [7 Quick Tips to Control Clutter and Stop Hoarding](../../3-Resources/Highlights/Readwise/Articles/7%20Quick%20Tips%20to%20Control%20Clutter%20and%20Stop%20Hoarding.md)
+* *Christopher Pappas* in [8 Best Practices to Facilitate Personal Knowledge Management in eLearning - eLearning Industry](../../3-Resources/Highlights/Readwise/Articles/8%20Best%20Practices%20to%20Facilitate%20Personal%20Knowledge%20Management%20in%20eLearning%20-%20eLearning%20Industry.md)
+* *Paul Minors* in *3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP  > 177*\]
+* *Anisuzzaman Babla* in [9 Tricks for Boosting SQL Query Performance](../../3-Resources/Highlights/Readwise/Articles/9%20Tricks%20for%20Boosting%20SQL%20Query%20Performance.md)
+* *Tim Connors* in [A Builder’s Guide to Note-Taking](../../3-Resources/Highlights/Readwise/Articles/A%20Builder%E2%80%99s%20Guide%20to%20Note-Taking.md)
+* *Esther Vaati* in [A Detailed Guide to User Registration, Login, and Logout in Flask](../../3-Resources/Highlights/Readwise/Articles/A%20Detailed%20Guide%20to%20User%20Registration,%20Login,%20and%20Logout%20in%20Flask.md)
+* *Kevin Lin* in [A Hierarchy First Approach to Note Taking](../../3-Resources/Highlights/Readwise/Articles/A%20Hierarchy%20First%20Approach%20to%20Note%20Taking.md)
+* *zenhabits* in [A New Year Is a Beautiful Fresh Start](../../3-Resources/Highlights/Readwise/Articles/A%20New%20Year%20Is%20a%20Beautiful%20Fresh%20Start.md)
+* *devblogs.microsoft.com* in [A Preview of WSL in the Microsoft Store Is Now Available!](../../3-Resources/Highlights/Readwise/Articles/A%20Preview%20of%20WSL%20in%20the%20Microsoft%20Store%20Is%20Now%20Available!.md)
+* *developer.mozilla.org* in [A Re-Introduction to JavaScript (JS Tutorial) - JavaScript  MDN](../../3-Resources/Highlights/Readwise/Articles/A%20Re-Introduction%20to%20JavaScript%20%28JS%20Tutorial%29%20-%20JavaScript%20%20MDN.md)
+* *David Smith* in [A Workflow for R](../../3-Resources/Highlights/Readwise/Articles/A%20Workflow%20for%20R.md)
+* *firstround.com* in [A ‘Jobs to Be Done’ Framework for Startups](../../3-Resources/Highlights/Readwise/Articles/A%20%E2%80%98Jobs%20to%20Be%20Done%E2%80%99%20Framework%20for%20Startups.md)
+* *Abdul Wahab* in [API Architecture  —  Performance Best Practices for REST APIs](../../3-Resources/Highlights/Readwise/Articles/API%20Architecture%20%E2%80%8A%E2%80%94%E2%80%8A%20Performance%20Best%20Practices%20for%20REST%20APIs.md)
+* *techno-pm.com* in [Action Items Template for Excel](../../3-Resources/Highlights/Readwise/Articles/Action%20Items%20Template%20for%20Excel.md)
+* *Mitesh* in [Architecture for a Startup-2](../../3-Resources/Highlights/Readwise/Articles/Architecture%20for%20a%20Startup-2.md), [Architecture for a Startup](../../3-Resources/Highlights/Readwise/Articles/Architecture%20for%20a%20Startup.md)
+* *Marcin Kosiński* in [Archivist and GitHub Integration Archivist.github](../../3-Resources/Highlights/Readwise/Articles/Archivist%20and%20GitHub%20Integration%20Archivist.github.md)
+* *Thanh Pham* in [Are You Making This GTD Mistake - Asian Efficiency](../../3-Resources/Highlights/Readwise/Articles/Are%20You%20Making%20This%20GTD%20Mistake%20-%20Asian%20Efficiency.md)
+* *stevejgordon.co.uk* in [Become a Better Developer Through Blogging - Steve Gordon - Code With Steve](../../3-Resources/Highlights/Readwise/Articles/Become%20a%20Better%20Developer%20Through%20Blogging%20-%20Steve%20Gordon%20-%20Code%20With%20Steve.md)
+* *danfletcherblog.ca* in [Beginner's Tip Organize Your Coding Projects - Dan Fletcher Blog](../../3-Resources/Highlights/Readwise/Articles/Beginner's%20Tip%20Organize%20Your%20Coding%20Projects%20-%20Dan%20Fletcher%20Blog.md)
+* *Mike Williams* in [Best Free, Public DNS Servers in 2021 Boost Your Internet Speed With These Services](../../3-Resources/Highlights/Readwise/Articles/Best%20Free,%20Public%20DNS%20Servers%20in%202021%20Boost%20Your%20Internet%20Speed%20With%20These%20Services.md)
+* *Matthew Hodgkins* in [Best Practices With Packer and Windows](../../3-Resources/Highlights/Readwise/Articles/Best%20Practices%20With%20Packer%20and%20Windows.md)
+* *codemag.com* in [Better ExtractTransformLoad (ETL) Practices in Data Warehousing](../../3-Resources/Highlights/Readwise/Articles/Better%20ExtractTransformLoad%20%28ETL%29%20Practices%20in%20Data%20Warehousing.md), [The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing](../../3-Resources/Highlights/Readwise/Articles/The%20Baker%E2%80%99s%20Dozen%2013%20Tips%20for%20Better%20ExtractTransformLoad%20%28ETL%29%20Practices%20in%20Data%20Warehousing.md)
+* *pkgdevt* in [Bioconductor - Package Guidelines](../../3-Resources/Highlights/Readwise/Articles/Bioconductor%20-%20Package%20Guidelines.md)
+* *writethedocs.org* in [Building Documentation Mindshare in a Company — Write the Docs](../../3-Resources/Highlights/Readwise/Articles/Building%20Documentation%20Mindshare%20in%20a%20Company%20%E2%80%94%20Write%20the%20Docs.md)
+* *Alan Marazzi* in [Building a Data Pipeline From Scratch - The Data Experience - Medium](../../3-Resources/Highlights/Readwise/Articles/Building%20a%20Data%20Pipeline%20From%20Scratch%20-%20The%20Data%20Experience%20-%20Medium.md)
+* *tomcritchlow.com* in [Building a Digital Garden](../../3-Resources/Highlights/Readwise/Articles/Building%20a%20Digital%20Garden.md)
+* *fortelabs.co* in [Building a Second Brain An Overview - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/Building%20a%20Second%20Brain%20An%20Overview%20-%20Forte%20Labs.md), [How to Use Evernote for Your Creative Workflow - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Evernote%20for%20Your%20Creative%20Workflow%20-%20Forte%20Labs.md), [Introducing the MESA Method Creating the Ideal Work Experience - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/Introducing%20the%20MESA%20Method%20Creating%20the%20Ideal%20Work%20Experience%20-%20Forte%20Labs.md), [Just-In-Time Project Management A Digital-First Framework for Modern Projects - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/Just-In-Time%20Project%20Management%20A%20Digital-First%20Framework%20for%20Modern%20Projects%20-%20Forte%20Labs.md), [One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/One-Touch%20to%20Inbox%20Zero%20How%20I%20Spend%2017%20Minutes%20Per%20Day%20on%20Email%20-%20Forte%20Labs.md), [PARA Part 5 The Project List Mindsweep - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/PARA%20Part%205%20The%20Project%20List%20Mindsweep%20-%20Forte%20Labs.md), [PARA Part 8 Core Principles of Digital Organization - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/PARA%20Part%208%20Core%20Principles%20of%20Digital%20Organization%20-%20Forte%20Labs.md), [The Case for Digital Notes - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20Case%20for%20Digital%20Notes%20-%20Forte%20Labs.md), [The Digital Productivity Pyramid - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20Digital%20Productivity%20Pyramid%20-%20Forte%20Labs.md), [The Maker's Guide to Content Curation, Part 1 Open-Sourcing Your Learning Process - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20Maker's%20Guide%20to%20Content%20Curation,%20Part%201%20Open-Sourcing%20Your%20Learning%20Process%20-%20Forte%20Labs.md), [3-Resources/Highlights/Readwise/Articles/The One-Touch Guide to Doing a Weekly Review How I Go From Chaos to Clarity in 30 Minutes - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20One-Touch%20Guide%20to%20Doing%20a%20Weekly%20Review%20How%20I%20Go%20From%20Chaos%20to%20Clarity%20in%2030%20Minutes%20-%20Forte%20Labs.md), [The Ultimate Guide to Summarizing Books How to Distill Ideas to Accelerate Your Learning - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/The%20Ultimate%20Guide%20to%20Summarizing%20Books%20How%20to%20Distill%20Ideas%20to%20Accelerate%20Your%20Learning%20-%20Forte%20Labs.md), [You Need a Budget 13 Parallels Between Money and Productivity - Forte Labs](../../3-Resources/Highlights/Readwise/Articles/You%20Need%20a%20Budget%2013%20Parallels%20Between%20Money%20and%20Productivity%20-%20Forte%20Labs.md)
+* *Originally Published* in [Building an Open Source Personal Knowledge Base  Hacker Noon](../../3-Resources/Highlights/Readwise/Articles/Building%20an%20Open%20Source%20Personal%20Knowledge%20Base%20%20Hacker%20Noon.md)
+* *Tony Munton* in [Business Engineering — An Alternative Approach to Architecting and Executing Complex Businesses…](../../3-Resources/Highlights/Readwise/Articles/Business%20Engineering%20%E2%80%94%20An%20Alternative%20Approach%20to%20Architecting%20and%20Executing%20Complex%20Businesses%E2%80%A6.md)
+* *forum.gettingthingsdone.com* in [Can't Stay Focused While Processing - Have Tried for Months](../../3-Resources/Highlights/Readwise/Articles/Can't%20Stay%20Focused%20While%20Processing%20-%20Have%20Tried%20for%20Months.md)
+* *Advice* in [Can't Stay Focused While Processing - Have Tried for Months](../../3-Resources/Highlights/Readwise/Articles/Can't%20Stay%20Focused%20While%20Processing%20-%20Have%20Tried%20for%20Months.md)
+* *Darryl Brooks* in [Clean Up Your Productivity System to Be More Productive](../../3-Resources/Highlights/Readwise/Articles/Clean%20Up%20Your%20Productivity%20System%20to%20Be%20More%20Productive.md)
+* *profitableventure.com* in *3-Resources/Highlights/Readwise/Articles/Cloud Based Computing Business Ideas for 2021 [Top 50 Picks*\]
+* *Dice Guest* in [Cloud Computing 8 Benefits for Your Software Developers - Dice Insights](../../3-Resources/Highlights/Readwise/Articles/Cloud%20Computing%208%20Benefits%20for%20Your%20Software%20Developers%20-%20Dice%20Insights.md)
+* *Johanes Glenn* in [CloudRun With Serverless VPC Access + CloudSQL With Private Service Connect.](../../3-Resources/Highlights/Readwise/Articles/CloudRun%20With%20Serverless%20VPC%20Access%20+%20CloudSQL%20With%20Private%20Service%20Connect..md), *3-Resources/Highlights/Readwise/Articles/Workflow for Serverless — Cloud Functions + Workflow [Basic*\]
+* *Mauricio Prinzlau* in [Cloudwards.net's Backup and Storage Strategy 2017](../../3-Resources/Highlights/Readwise/Articles/Cloudwards.net's%20Backup%20and%20Storage%20Strategy%202017.md)
+* *Carl Pullein* in [Collecting and Organising Data for Maximum Productivity. — Carl Pullein](../../3-Resources/Highlights/Readwise/Articles/Collecting%20and%20Organising%20Data%20for%20Maximum%20Productivity.%20%E2%80%94%20Carl%20Pullein.md), [How to Do a Weekly Planning Session.](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Do%20a%20Weekly%20Planning%20Session..md), [Why Organising Your To-Dos by Project Does Not Work.](../../3-Resources/Highlights/Readwise/Articles/Why%20Organising%20Your%20To-Dos%20by%20Project%20Does%20Not%20Work..md)
+* *Eleanor McKenna* in [Completing Tasks — 10 Steps to Finishing What You Start](../../3-Resources/Highlights/Readwise/Articles/Completing%20Tasks%20%E2%80%94%2010%20Steps%20to%20Finishing%20What%20You%20Start.md)
+* *ferd.ca* in [Complexity Has to Live Somewhere](../../3-Resources/Highlights/Readwise/Articles/Complexity%20Has%20to%20Live%20Somewhere.md)
+* *hackersandslackers.com* in [3-Resources/Highlights/Readwise/Articles/Configuring Your Flask App](../../3-Resources/Highlights/Readwise/Articles/Configuring%20Your%20Flask%20App.md)
+* *craigsturgis.com* in [Craig Sturgis Dot Com](../../3-Resources/Highlights/Readwise/Articles/Craig%20Sturgis%20Dot%20Com.md)
+* *hbr.org* in [Create a Productivity Workflow That Works for You](../../3-Resources/Highlights/Readwise/Articles/Create%20a%20Productivity%20Workflow%20That%20Works%20for%20You.md), [Managing Yourself Extreme Productivity](../../3-Resources/Highlights/Readwise/Articles/Managing%20Yourself%20Extreme%20Productivity.md)
+* *Matt Wrock* in [Creating Windows Base Images Using Packer and Boxstarter — Hurry Up and Wait!](../../3-Resources/Highlights/Readwise/Articles/Creating%20Windows%20Base%20Images%20Using%20Packer%20and%20Boxstarter%20%E2%80%94%20Hurry%20Up%20and%20Wait!.md)
+* *Gerrishon Sirere* in [Data Ecosystem](../../3-Resources/Highlights/Readwise/Articles/Data%20Ecosystem.md)
+* *Kiran Mainali* in [DataOps Implementation Guidelines](../../3-Resources/Highlights/Readwise/Articles/DataOps%20Implementation%20Guidelines.md)
+* *calnewport.com* in [Deep Habits WorkingMemory.txt (The Most Important Productivity Tool You've Never Heard Of) - Study Hacks - Cal Newport](../../3-Resources/Highlights/Readwise/Articles/Deep%20Habits%20WorkingMemory.txt%20%28The%20Most%20Important%20Productivity%20Tool%20You've%20Never%20Heard%20Of%29%20-%20Study%20Hacks%20-%20Cal%20Newport.md), [On Confronting the Productivity Dragon](../../3-Resources/Highlights/Readwise/Articles/On%20Confronting%20the%20Productivity%20Dragon.md), [The Deep Reset - Study Hacks - Cal Newport](../../3-Resources/Highlights/Readwise/Articles/The%20Deep%20Reset%20-%20Study%20Hacks%20-%20Cal%20Newport.md)
+* *Gerren Lamson* in [Designing Better File Organization](../../3-Resources/Highlights/Readwise/Articles/Designing%20Better%20File%20Organization.md)
+* *Ari* in [Dev Environments as Code With Containers and Visual Studio Code](../../3-Resources/Highlights/Readwise/Articles/Dev%20Environments%20as%20Code%20With%20Containers%20and%20Visual%20Studio%20Code.md)
+* *Dror Helper* in [Developer GTD](../../3-Resources/Highlights/Readwise/Articles/Developer%20GTD.md)
+* *themuse.com* in [Digital De-Cluttering How to Streamline Your Online Life](../../3-Resources/Highlights/Readwise/Articles/Digital%20De-Cluttering%20How%20to%20Streamline%20Your%20Online%20Life.md)
+* *Rick Melnyck* in [Digital Declutter This Is How to Reset Your Digital Life - Prime Your Pump](../../3-Resources/Highlights/Readwise/Articles/Digital%20Declutter%20This%20Is%20How%20to%20Reset%20Your%20Digital%20Life%20-%20Prime%20Your%20Pump.md)
+* *howtogyst.com* in [Digital Decluttering Cleaning Up Computer Files & Social Media Profiles](../../3-Resources/Highlights/Readwise/Articles/Digital%20Decluttering%20Cleaning%20Up%20Computer%20Files%20&%20Social%20Media%20Profiles.md)
+* *Deb Lee* in [Digital Life in Disarray Use These 6 Steps to Get Organized.](../../3-Resources/Highlights/Readwise/Articles/Digital%20Life%20in%20Disarray%20Use%20These%206%20Steps%20to%20Get%20Organized..md)
+* *jon.bo* in [Digital Tools I Wish Existed](../../3-Resources/Highlights/Readwise/Articles/Digital%20Tools%20I%20Wish%20Existed.md)
+* *seagate.com* in *3-Resources/Highlights/Readwise/Articles/Dos and Don’ts for Organizing Your Digital Files  Seagate US*
+* *Katarina Harbuzava* in [ETL (Extract, Transform, Load). Best Practices ETL Process and Lifehacks](../../3-Resources/Highlights/Readwise/Articles/ETL%20%28Extract,%20Transform,%20Load%29.%20Best%20Practices%20ETL%20Process%20and%20Lifehacks.md)
+* *Marie Casas* in [Embracing Einstein Time](../../3-Resources/Highlights/Readwise/Articles/Embracing%20Einstein%20Time.md)
+* *Sébastien Rochette* in [Enable Code Folding in Bookdown and Blogdown · StatnMap](../../3-Resources/Highlights/Readwise/Articles/Enable%20Code%20Folding%20in%20Bookdown%20and%20Blogdown%20%C2%B7%20StatnMap.md)
+* *Dunith Dhanushka* in [Event-Driven APIs — Understanding the Principles](../../3-Resources/Highlights/Readwise/Articles/Event-Driven%20APIs%E2%80%8A%E2%80%94%E2%80%8AUnderstanding%20the%20Principles.md)
+* *Mohit Malhotra* in [Everything About Software Architecture](../../3-Resources/Highlights/Readwise/Articles/Everything%20About%20Software%20Architecture.md)
+* *Avia Tam* in [Ferret — Your Local Environment Made Easy](../../3-Resources/Highlights/Readwise/Articles/Ferret%E2%80%8A%E2%80%94%E2%80%8AYour%20Local%20Environment%20Made%20Easy.md)
+* *Charlie Gilkey* in [Finishing Strong Part 1 Run a Victory Lap](../../3-Resources/Highlights/Readwise/Articles/Finishing%20Strong%20Part%201%20Run%20a%20Victory%20Lap.md)
+* *Khe Hy* in [First Principles of Workflow Design (A 2-Part Episode)  RadReads](../../3-Resources/Highlights/Readwise/Articles/First%20Principles%20of%20Workflow%20Design%20%28A%202-Part%20Episode%29%20%20RadReads.md)
+* *Keith McNulty* in [Five Tidyverse Tricks You May Not Know About](../../3-Resources/Highlights/Readwise/Articles/Five%20Tidyverse%20Tricks%20You%20May%20Not%20Know%20About.md)
+* *shortform.com* in [GTD Reference The Best Filing System for Busy Lives  Shortform Books](../../3-Resources/Highlights/Readwise/Articles/GTD%20Reference%20The%20Best%20Filing%20System%20for%20Busy%20Lives%20%20Shortform%20Books.md)
+* *Stacey Harmon* in [Gaming the Naming The ABC's of Organizing Your Evernote Notebooks](../../3-Resources/Highlights/Readwise/Articles/Gaming%20the%20Naming%20The%20ABC's%20of%20Organizing%20Your%20Evernote%20Notebooks.md)
+* *Rich Hein* in [Get New IT Pros Up to Speed Fast With This Onboarding Checklist](../../3-Resources/Highlights/Readwise/Articles/Get%20New%20IT%20Pros%20Up%20to%20Speed%20Fast%20With%20This%20Onboarding%20Checklist.md)
+* *personaldevelopmentideas.com* in [Get Organized – Personal Development Ideas](../../3-Resources/Highlights/Readwise/Articles/Get%20Organized%20%E2%80%93%20Personal%20Development%20Ideas.md)
+* *aws.amazon.com* in [3-Resources/Highlights/Readwise/Articles/Getting Started With R on Amazon Web Services  Amazon Web Services](../../3-Resources/Highlights/Readwise/Articles/Getting%20Started%20With%20R%20on%20Amazon%20Web%20Services%20%20Amazon%20Web%20Services.md)
+* *joebuhlig.com* in [Getting Things Done Clarify](../../3-Resources/Highlights/Readwise/Articles/Getting%20Things%20Done%20Clarify.md)
+* *Zamil* in [Git Process for Small Organizations to Begin With](../../3-Resources/Highlights/Readwise/Articles/Git%20Process%20for%20Small%20Organizations%20to%20Begin%20With.md)
+* *Michael Linenberger* in [Guest Post Using Todoist With MYN and 1MTD by Charles Olsen](../../3-Resources/Highlights/Readwise/Articles/Guest%20Post%20Using%20Todoist%20With%20MYN%20and%201MTD%20by%20Charles%20Olsen.md)
+* *Shoaib Mehedi* in [Habits You Must Have to Be a Highly Effective Programmers](../../3-Resources/Highlights/Readwise/Articles/Habits%20You%20Must%20Have%20to%20Be%20a%20Highly%20Effective%20Programmers.md)
+* *Research Data Management* in [Home - How to Write a Good Documentation - Library Guides at UC Berkeley](../../3-Resources/Highlights/Readwise/Articles/Home%20-%20How%20to%20Write%20a%20Good%20Documentation%20-%20Library%20Guides%20at%20UC%20Berkeley.md)
+* *Bruno Paz* in [How I Organize My Knowledge as a Software Engineer](../../3-Resources/Highlights/Readwise/Articles/How%20I%20Organize%20My%20Knowledge%20as%20a%20Software%20Engineer.md)
+* *Melissa Jean Clark* in [How I Use Evernote to Organize Client Projects](../../3-Resources/Highlights/Readwise/Articles/How%20I%20Use%20Evernote%20to%20Organize%20Client%20Projects.md)
+* *Jovan Cicmil* in [How a Single Freelancer Outperforms a Whole Team](../../3-Resources/Highlights/Readwise/Articles/How%20a%20Single%20Freelancer%20Outperforms%20a%20Whole%20Team.md)
+* *dev.to* in [How the Web Works](../../3-Resources/Highlights/Readwise/Articles/How%20the%20Web%20Works.md), [Kubernetes Explained to Product Managers](../../3-Resources/Highlights/Readwise/Articles/Kubernetes%20Explained%20to%20Product%20Managers.md), [SSH Key Best Practices](../../3-Resources/Highlights/Readwise/Articles/SSH%20Key%20Best%20Practices.md)
+* *cultivatedmanagement.com* in [How to Build a Personal Knowledge Management System - Cultivated Management](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20a%20Personal%20Knowledge%20Management%20System%20-%20Cultivated%20Management.md)
+* *Axton* in [How to Build an Efficient Personal Knowledge Management System-2](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20an%20Efficient%20Personal%20Knowledge%20Management%20System-2.md)
+* *medium.com* in [How to Build an Efficient Personal Knowledge Management System](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20an%20Efficient%20Personal%20Knowledge%20Management%20System.md)
+* *Chris Kyle* in [How to Build the Ultimate Productivity System](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Build%20the%20Ultimate%20Productivity%20System.md)
+* *Denise Rebollido* in *3-Resources/Highlights/Readwise/Articles/How to Centralize Your Tasks When You’re Using Too Many Apps*
+* *easeus.com* in [How to Create EaseUS Bootable USB, CDDVD, and ISO Image With EaseUS Todo Backup - EaseUS](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Create%20EaseUS%20Bootable%20USB,%20CDDVD,%20and%20ISO%20Image%20With%20EaseUS%20Todo%20Backup%20-%20EaseUS.md)
+* *smallbusinessprogramming.com* in [How to Crush It at the Start of Your New Developer Job - Small Business Programming](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Crush%20It%20at%20the%20Start%20of%20Your%20New%20Developer%20Job%20-%20Small%20Business%20Programming.md)
+* *theblissfulmind.com* in [How to Declutter & Organize Your Digital Files](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Declutter%20&%20Organize%20Your%20Digital%20Files.md)
+* *Mohammad Faisal* in [How to Design a Clean Database](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Design%20a%20Clean%20Database.md)
+* *becomeawritertoday.com* in [How to Do a Weekly Review Step-By-Step](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Do%20a%20Weekly%20Review%20Step-By-Step.md)
+* *Shalitha Suranga* in [How to Enhance Your Windows Batch Files by Adding GUI](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Enhance%20Your%20Windows%20Batch%20Files%20by%20Adding%20GUI.md)
+* *gigaom.com* in [How to Get Through a Paper and Digital Backlog – Gigaom](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Get%20Through%20a%20Paper%20and%20Digital%20Backlog%20%E2%80%93%20Gigaom.md)
+* *Molly Stovold* in [How to Get and Remain Organized During Chaotic Times](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Get%20and%20Remain%20Organized%20During%20Chaotic%20Times.md)
+* *Robert Talbert* in [How to Handle Inbox Infinity](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Handle%20Inbox%20Infinity.md)
+* *Adrian Shepherd* in [How to Increase Your Efficiency at Work](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Increase%20Your%20Efficiency%20at%20Work.md)
+* *Syed Mujtaba Jafri* in [How to Learn Linux and Git](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Learn%20Linux%20and%20Git.md)
+* *Matt* in [How to Make Your Developer On-Boarding Process Idiot Proof](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Make%20Your%20Developer%20On-Boarding%20Process%20Idiot%20Proof.md)
+* *Dan Shipper* in [How to Make Yourself Into a Learning Machine](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Make%20Yourself%20Into%20a%20Learning%20Machine.md), [The Notetaking Cold War](../../3-Resources/Highlights/Readwise/Articles/The%20Notetaking%20Cold%20War.md)
+* *Shana Lebowitz* in [How to Make a To-Do List and Get Sh!t Done](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Make%20a%20To-Do%20List%20and%20Get%20Sh!t%20Done.md)
+* *home-storage-solutions-101.com* in [How to Organize Computer Files on Your Home Computer](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Computer%20Files%20on%20Your%20Home%20Computer.md)
+* *Andrew Orr* in [How to Organize Your Files An Introduction to Personal File Management - The Mac Observer](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Files%20An%20Introduction%20to%20Personal%20File%20Management%20-%20The%20Mac%20Observer.md)
+* *Giorgos Petkakis* in [How to Organize Your Files for Maximum Productivity](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Files%20for%20Maximum%20Productivity.md)
+* *redeemingproductivity.com* in [How to Organize Your Writing With Markdown - Redeeming Productivity](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Organize%20Your%20Writing%20With%20Markdown%20-%20Redeeming%20Productivity.md)
+* *Mikhail Klassen* in [How to Structure Your Data Science Workflow](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Structure%20Your%20Data%20Science%20Workflow.md)
+* [Evernote](../../3-Resources/Tools/PKM%20Tools/Evernote.md) in [How to Use Evernote's Advanced Search Syntax](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Evernote's%20Advanced%20Search%20Syntax.md)
+* *developgoodhabits.com* in [How to Use Todoist Tutorial](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Todoist%20Tutorial.md)
+* *John Zeratsky* in [How to Use Your Calendar to Make Every Day Your Ideal Day](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20Your%20Calendar%20to%20Make%20Every%20Day%20Your%20Ideal%20Day.md)
+* *Christopher D. Connors* in [How to Use a Daily Inspirational Routine for Long-Lasting Success in 2021](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20a%20Daily%20Inspirational%20Routine%20for%20Long-Lasting%20Success%20in%202021.md)
+* *techrepublic.com* in [How to Use the Windows Media Creation Tool to Create a Windows 10 ISO File](../../3-Resources/Highlights/Readwise/Articles/How%20to%20Use%20the%20Windows%20Media%20Creation%20Tool%20to%20Create%20a%20Windows%2010%20ISO%20File.md)
+* *Komal Venkatesh Ganesan* in [How to ‘DevOps’ as a Software Developer](../../3-Resources/Highlights/Readwise/Articles/How%20to%20%E2%80%98DevOps%E2%80%99%20as%20a%20Software%20Developer.md)
+* *Pulkit Saraf* in [I Built Docker Like Executable .Exe for RShiny!](../../3-Resources/Highlights/Readwise/Articles/I%20Built%20Docker%20Like%20Executable%20.Exe%20for%20RShiny!.md)
+* *lesswrong.com* in [Implementing an Idea-Management System - LessWrong 2.0](../../3-Resources/Highlights/Readwise/Articles/Implementing%20an%20Idea-Management%20System%20-%20LessWrong%202.0.md)
+* *Bob Stanke* in [Initial Thoughts on Notion and Getting Started Building a New Productivity Workflow](../../3-Resources/Highlights/Readwise/Articles/Initial%20Thoughts%20on%20Notion%20and%20Getting%20Started%20Building%20a%20New%20Productivity%20Workflow.md)
+* *Mark Koester* in [Instapaper Empowering How I Read Articles With Highlights and Tracking - Mark Koester](../../3-Resources/Highlights/Readwise/Articles/Instapaper%20Empowering%20How%20I%20Read%20Articles%20With%20Highlights%20and%20Tracking%20-%20Mark%20Koester.md), [The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester](../../3-Resources/Highlights/Readwise/Articles/The%20Power%20of%20Systematic%20Notes%20A%20Book%20Review%20of%20How%20to%20Take%20Smart%20Notes%20by%20S%C3%B6nke%20Ahrens%20-%20Mark%20Koester.md)
+* *kevinslin.com* in [It’s Not You - It’s Your Knowledge Base](../../3-Resources/Highlights/Readwise/Articles/It%E2%80%99s%20Not%20You%20-%20It%E2%80%99s%20Your%20Knowledge%20Base.md)
+* *jevakallio.github.io* in [Jani’s Notes](../../3-Resources/Highlights/Readwise/Articles/Jani%E2%80%99s%20Notes.md)
+* *blog.finxter.com* in [Keep It Simple, Stupid! Minimalism in Programming How Complexity Harms Your Productivity  Finxter](../../3-Resources/Highlights/Readwise/Articles/Keep%20It%20Simple,%20Stupid!%20Minimalism%20in%20Programming%20How%20Complexity%20Harms%20Your%20Productivity%20%20Finxter.md)
+* *linkedin.com* in *3-Resources/Highlights/Readwise/Articles/Knowledge Management in Real Life  LinkedIn*
+* *updater.com* in [Last-Minute Moving Tips How to Pack in a Pinch - Updater](../../3-Resources/Highlights/Readwise/Articles/Last-Minute%20Moving%20Tips%20How%20to%20Pack%20in%20a%20Pinch%20-%20Updater.md)
+* *winaero.com* in [3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10](../../3-Resources/Highlights/Readwise/Articles/List%20of%20Shell%20Commands%20in%20Windows%2010.md)
+* *Windows* in [3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10](../../3-Resources/Highlights/Readwise/Articles/List%20of%20Shell%20Commands%20in%20Windows%2010.md)
+* *shell* in [3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10](../../3-Resources/Highlights/Readwise/Articles/List%20of%20Shell%20Commands%20in%20Windows%2010.md)
+* *reference* in [3-Resources/Highlights/Readwise/Articles/List of Shell Commands in Windows 10](../../3-Resources/Highlights/Readwise/Articles/List%20of%20Shell%20Commands%20in%20Windows%2010.md)
+* *Thomas Kainrad* in [Managing My Personal Knowledge Base](../../3-Resources/Highlights/Readwise/Articles/Managing%20My%20Personal%20Knowledge%20Base.md)
+* *anishathalye.com* in [Managing Your Dotfiles](../../3-Resources/Highlights/Readwise/Articles/Managing%20Your%20Dotfiles.md)
+* *Anna Sackmann* in [Managing Your Project - How to Make Your Research Reproducible - Library Gu](../../3-Resources/Highlights/Readwise/Articles/Managing%20Your%20Project%20-%20How%20to%20Make%20Your%20Research%20Reproducible%20-%20Library%20Gu.md)
+* *Mzes Social Science Data Lab* in [Methods Bites](../../3-Resources/Highlights/Readwise/Articles/Methods%20Bites.md)
+* *mobydiction.ca* in [My Personal Knowledge Management System — Moby Diction](../../3-Resources/Highlights/Readwise/Articles/My%20Personal%20Knowledge%20Management%20System%20%E2%80%94%20Moby%20Diction.md)
+* *niklasblog.com* in [Obsidian My New Knowledge Base or Base for Knowledge](../../3-Resources/Highlights/Readwise/Articles/Obsidian%20My%20New%20Knowledge%20Base%20or%20Base%20for%20Knowledge.md)
+* *trustedsec.com* in [Obsidian, Taming a Collective Consciousness - TrustedSec](../../3-Resources/Highlights/Readwise/Articles/Obsidian,%20Taming%20a%20Collective%20Consciousness%20-%20TrustedSec.md)
+* *Arturo Ríos* in [One Productivity System to Rule Them All](../../3-Resources/Highlights/Readwise/Articles/One%20Productivity%20System%20to%20Rule%20Them%20All.md)
+* *Lucas Soares* in [Optimized Workflow](../../3-Resources/Highlights/Readwise/Articles/Optimized%20Workflow.md)
+* *Ellane W* in [Paperless The One Notebook and Pen I’m Never Giving Up](../../3-Resources/Highlights/Readwise/Articles/Paperless%20The%20One%20Notebook%20and%20Pen%20I%E2%80%99m%20Never%20Giving%20Up.md)
+* *Yujun Zhou* in [Planning a Lot  Yujun Zhou's Website](../../3-Resources/Highlights/Readwise/Articles/Planning%20a%20Lot%20%20Yujun%20Zhou's%20Website.md), [Project Management With RStudio and Github  Yujun Zhou's Website](../../3-Resources/Highlights/Readwise/Articles/Project%20Management%20With%20RStudio%20and%20Github%20%20Yujun%20Zhou's%20Website.md)
+* *tutorialspoint.com* in [Powershell - Scripting - Tutorialspoint](../../3-Resources/Highlights/Readwise/Articles/Powershell%20-%20Scripting%20-%20Tutorialspoint.md)
+* *James Stuber* in [Productivity Overwhelm](../../3-Resources/Highlights/Readwise/Articles/Productivity%20Overwhelm.md)
+* *pauljacobson.me* in [Productivity System Archives • Paul Jacobson](../../3-Resources/Highlights/Readwise/Articles/Productivity%20System%20Archives%20%E2%80%A2%20Paul%20Jacobson.md)
+* *Nikita Voloboev* in [Project Based Learning](../../3-Resources/Highlights/Readwise/Articles/Project%20Based%20Learning.md)
+* *Emily Riederer* in [Projmgr Managing the Human Dependencies of Your Projects  Emily Riederer](../../3-Resources/Highlights/Readwise/Articles/Projmgr%20Managing%20the%20Human%20Dependencies%20of%20Your%20Projects%20%20Emily%20Riederer.md)
+* *FacileThings* in [Quick Start Guide How to Start Implementing GTD Successfully](../../3-Resources/Highlights/Readwise/Articles/Quick%20Start%20Guide%20How%20to%20Start%20Implementing%20GTD%20Successfully.md), [The Capture Stage of GTD, Explained](../../3-Resources/Highlights/Readwise/Articles/The%20Capture%20Stage%20of%20GTD,%20Explained.md)
+* *Peter Meissner* in [R Treasures modifyList() › Petermeissner](../../3-Resources/Highlights/Readwise/Articles/R%20Treasures%20modifyList%28%29%20%E2%80%BA%20Petermeissner.md), [Re-Exporting the Magrittr Pipe Operator › Petermeissner](../../3-Resources/Highlights/Readwise/Articles/Re-Exporting%20the%20Magrittr%20Pipe%20Operator%20%E2%80%BA%20Petermeissner.md)
+* *name* in [R Treasures modifyList() › Petermeissner](../../3-Resources/Highlights/Readwise/Articles/R%20Treasures%20modifyList%28%29%20%E2%80%BA%20Petermeissner.md)
+* *'a'* in [R Treasures modifyList() › Petermeissner](../../3-Resources/Highlights/Readwise/Articles/R%20Treasures%20modifyList%28%29%20%E2%80%BA%20Petermeissner.md)
+* *Mark Edmondson* in [R at Scale on the Google Cloud Platform](../../3-Resources/Highlights/Readwise/Articles/R%20at%20Scale%20on%20the%20Google%20Cloud%20Platform.md), [Shiny on Google Cloud Run - Scale-To-Zero R Web Apps](../../3-Resources/Highlights/Readwise/Articles/Shiny%20on%20Google%20Cloud%20Run%20-%20Scale-To-Zero%20R%20Web%20Apps.md)
+* *Kelly O'Briant* in [R in Production, DevOps, and the Importance of Empathetic Witnesses](../../3-Resources/Highlights/Readwise/Articles/R%20in%20Production,%20DevOps,%20and%20the%20Importance%20of%20Empathetic%20Witnesses.md)
+* *Tanmay Deshpande* in [RESTful API Design — Step by Step Guide](../../3-Resources/Highlights/Readwise/Articles/RESTful%20API%20Design%20%E2%80%94%20Step%20by%20Step%20Guide.md)
+* *Jillian Rowe* in [RShiny Authentication With Polished on AWS Kubernetes](../../3-Resources/Highlights/Readwise/Articles/RShiny%20Authentication%20With%20Polished%20on%20AWS%20Kubernetes.md)
+* *roxygen2.r-lib.org* in [Rd Formatting](../../3-Resources/Highlights/Readwise/Articles/Rd%20Formatting.md)
+* *Claire Minnis* in [Reflect, Recover, Reset – Your Life Plan 2021](../../3-Resources/Highlights/Readwise/Articles/Reflect,%20Recover,%20Reset%20%E2%80%93%20Your%20Life%20Plan%202021.md)
+* *robertmylesmcdonnell.com* in [Robert Myles McDonnell](../../3-Resources/Highlights/Readwise/Articles/Robert%20Myles%20McDonnell.md)
+* *Siva Anne* in [Scaling R Shiny Applications](../../3-Resources/Highlights/Readwise/Articles/Scaling%20R%20Shiny%20Applications.md)
+* *Michael Krasnov* in [Services in Systemd In-Depth Tutorial](../../3-Resources/Highlights/Readwise/Articles/Services%20in%20Systemd%20In-Depth%20Tutorial.md)
+* *Eoda Gmbh* in [Shiny Load Testing and Horizontal Scaling](../../3-Resources/Highlights/Readwise/Articles/Shiny%20Load%20Testing%20and%20Horizontal%20Scaling.md)
+* *Eric Elliott* in [Software Roles and Titles](../../3-Resources/Highlights/Readwise/Articles/Software%20Roles%20and%20Titles.md)
+* *Joshua Dance* in [Solutions for Taking Notes When Listening to Podcasts](../../3-Resources/Highlights/Readwise/Articles/Solutions%20for%20Taking%20Notes%20When%20Listening%20to%20Podcasts.md)
+* *blog.r-hub.io* in [State of R Packages in Your Library - R-Hub Blog](../../3-Resources/Highlights/Readwise/Articles/State%20of%20R%20Packages%20in%20Your%20Library%20-%20R-Hub%20Blog.md)
+* *Mateusz Bednarski* in [Structure and Automated Workflow for a Machine Learning Project — part 1](../../3-Resources/Highlights/Readwise/Articles/Structure%20and%20Automated%20Workflow%20for%20a%20Machine%20Learning%20Project%E2%80%8A%E2%80%94%E2%80%8Apart%201.md)
+* *joshkel.com* in [Symlinks in Windows, MinGW, Git, and Cygwin · Josh Kelley](../../3-Resources/Highlights/Readwise/Articles/Symlinks%20in%20Windows,%20MinGW,%20Git,%20and%20Cygwin%20%C2%B7%20Josh%20Kelley.md)
+* *Ashis Chakraborty* in [System Design Basics Load Balancer 101](../../3-Resources/Highlights/Readwise/Articles/System%20Design%20Basics%20Load%20Balancer%20101.md)
+* *Abracadabra* in [System Design Paradigm Caching](../../3-Resources/Highlights/Readwise/Articles/System%20Design%20Paradigm%20Caching.md)
+* *Francisco Sáez* in [Take the First Step](../../3-Resources/Highlights/Readwise/Articles/Take%20the%20First%20Step.md), [Want to Get Organized Start With the Mind Sweep](../../3-Resources/Highlights/Readwise/Articles/Want%20to%20Get%20Organized%20Start%20With%20the%20Mind%20Sweep.md)
+* *zarla ludin* in [Taking Notes for Yourself Best Practices for the Personal Notebook](../../3-Resources/Highlights/Readwise/Articles/Taking%20Notes%20for%20Yourself%20Best%20Practices%20for%20the%20Personal%20Notebook.md)
+* *Jianghao Wang* in [Templates for R Markdown  Jianghao](../../3-Resources/Highlights/Readwise/Articles/Templates%20for%20R%20Markdown%20%20Jianghao.md)
+* *Bauce Media Partner* in [The 'Weekly Review' Method Will Help You Get Things Done](../../3-Resources/Highlights/Readwise/Articles/The%20'Weekly%20Review'%20Method%20Will%20Help%20You%20Get%20Things%20Done.md)
+* *Darien Graham-Smith* in [The 13-Step Digital Declutter](../../3-Resources/Highlights/Readwise/Articles/The%2013-Step%20Digital%20Declutter.md)
+* *Dmytro Khmelenko* in [The 2 Types of Technical Documentation That  Developers Love](../../3-Resources/Highlights/Readwise/Articles/The%202%20Types%20of%20Technical%20Documentation%20That%20%20Developers%20Love.md)
+* *Nazareno Junior* in [The Actuary of the Future](../../3-Resources/Highlights/Readwise/Articles/The%20Actuary%20of%20the%20Future.md)
+* *cloud* in [The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing](../../3-Resources/Highlights/Readwise/Articles/The%20Baker%E2%80%99s%20Dozen%2013%20Tips%20for%20Better%20ExtractTransformLoad%20%28ETL%29%20Practices%20in%20Data%20Warehousing.md)
+* *data-warehouse* in [The Baker’s Dozen 13 Tips for Better ExtractTransformLoad (ETL) Practices in Data Warehousing](../../3-Resources/Highlights/Readwise/Articles/The%20Baker%E2%80%99s%20Dozen%2013%20Tips%20for%20Better%20ExtractTransformLoad%20%28ETL%29%20Practices%20in%20Data%20Warehousing.md)
+* *Jim Salter* in [The Best Part of Windows 11 Is a Revamped Windows Subsystem for Linux](../../3-Resources/Highlights/Readwise/Articles/The%20Best%20Part%20of%20Windows%2011%20Is%20a%20Revamped%20Windows%20Subsystem%20for%20Linux.md)
+* *Tamara Kerr* in [The Best Way to Organize Your To-Dos](../../3-Resources/Highlights/Readwise/Articles/The%20Best%20Way%20to%20Organize%20Your%20To-Dos.md)
+* *sivers.org* in [The Checklist Manifesto - By Atul Gawande  Derek Sivers](../../3-Resources/Highlights/Readwise/Articles/The%20Checklist%20Manifesto%20-%20By%20Atul%20Gawande%20%20Derek%20Sivers.md)
+* *Dr. Stefan Karenfort* in [The Data Science Landscape](../../3-Resources/Highlights/Readwise/Articles/The%20Data%20Science%20Landscape.md)
+* *indiehackers.com* in [The Future of Communities Is Increasingly More About Digital Community Gardening](../../3-Resources/Highlights/Readwise/Articles/The%20Future%20of%20Communities%20Is%20Increasingly%20More%20About%20Digital%20Community%20Gardening.md)
+* *doubleyourfreelancing.com* in [The Guide to Writing Great Emails That Win You Clients - Double Your Freelancing](../../3-Resources/Highlights/Readwise/Articles/The%20Guide%20to%20Writing%20Great%20Emails%20That%20Win%20You%20Clients%20-%20Double%20Your%20Freelancing.md)
+* *Brad Jones* in [The Impact of the Cloud on Software Development  Developer.com](../../3-Resources/Highlights/Readwise/Articles/The%20Impact%20of%20the%20Cloud%20on%20Software%20Development%20%20Developer.com.md)
+* *Edward Lamont* in [The Nitty-Gritty – Clearing Out Your Inbox - Next Action Associates](../../3-Resources/Highlights/Readwise/Articles/The%20Nitty-Gritty%20%E2%80%93%20Clearing%20Out%20Your%20Inbox%20-%20Next%20Action%20Associates.md)
+* *vocab* in [The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester](../../3-Resources/Highlights/Readwise/Articles/The%20Power%20of%20Systematic%20Notes%20A%20Book%20Review%20of%20How%20to%20Take%20Smart%20Notes%20by%20S%C3%B6nke%20Ahrens%20-%20Mark%20Koester.md)
+* *quote* in [The Power of Systematic Notes A Book Review of How to Take Smart Notes by Sönke Ahrens - Mark Koester](../../3-Resources/Highlights/Readwise/Articles/The%20Power%20of%20Systematic%20Notes%20A%20Book%20Review%20of%20How%20to%20Take%20Smart%20Notes%20by%20S%C3%B6nke%20Ahrens%20-%20Mark%20Koester.md)
+* *Megan Holstein* in [The Productivity System You Use Doesn’t Matter](../../3-Resources/Highlights/Readwise/Articles/The%20Productivity%20System%20You%20Use%20Doesn%E2%80%99t%20Matter.md)
+* *Ron Sielinski* in [The Role of Data Scientist A Back-Of-The-Envelope Model](../../3-Resources/Highlights/Readwise/Articles/The%20Role%20of%20Data%20Scientist%20A%20Back-Of-The-Envelope%20Model.md)
+* *J.R. Heimbigner* in [The Search for the Ultimate Productivity System-2](../../3-Resources/Highlights/Readwise/Articles/The%20Search%20for%20the%20Ultimate%20Productivity%20System-2.md)
+* *Jack Heimbigner* in [The Search for the Ultimate Productivity System](../../3-Resources/Highlights/Readwise/Articles/The%20Search%20for%20the%20Ultimate%20Productivity%20System.md)
+* *Productivity Core* in [The Second Brain Method](../../3-Resources/Highlights/Readwise/Articles/The%20Second%20Brain%20Method.md)
+* *Jake Knapp* in [The “Burner List”—My Simple, Paper-Based System for Focused To-Dos](../../3-Resources/Highlights/Readwise/Articles/The%20%E2%80%9CBurner%20List%E2%80%9D%E2%80%94My%20Simple,%20Paper-Based%20System%20for%20Focused%20To-Dos.md)
+* *Ben Hardy* in [This Is How You Become Confident and Transform Your Life](../../3-Resources/Highlights/Readwise/Articles/This%20Is%20How%20You%20Become%20Confident%20and%20Transform%20Your%20Life.md)
+* *Joash Xu* in [Three Systems I Use to Organize My Life](../../3-Resources/Highlights/Readwise/Articles/Three%20Systems%20I%20Use%20to%20Organize%20My%20Life.md)
+* *cmcrossroads.com* in [Top 10 Best Practices in Configuration Management](../../3-Resources/Highlights/Readwise/Articles/Top%2010%20Best%20Practices%20in%20Configuration%20Management.md)
+* *kitelytech.com* in [Top 4 Tips to Get Organized for Efficient Software Development](../../3-Resources/Highlights/Readwise/Articles/Top%204%20Tips%20to%20Get%20Organized%20for%20Efficient%20Software%20Development.md)
+* *Dan Silvestre* in [Ultimate Personal Management Systems - The Startup - Medium](../../3-Resources/Highlights/Readwise/Articles/Ultimate%20Personal%20Management%20Systems%20-%20The%20Startup%20-%20Medium.md)
+* *Jari Roomer* in [Use the ‘Mental Shift’ Technique to Increase Your Self-Discipline and Stop Procrastinating](../../3-Resources/Highlights/Readwise/Articles/Use%20the%20%E2%80%98Mental%20Shift%E2%80%99%20Technique%20to%20Increase%20Your%20Self-Discipline%20and%20Stop%20Procrastinating.md)
+* *karolis.koncevicius.lt* in [Using Redo to Manage R Data Analysis Workflow](../../3-Resources/Highlights/Readwise/Articles/Using%20Redo%20to%20Manage%20R%20Data%20Analysis%20Workflow.md)
+* *Viplove Prakash* in [3-Resources/Highlights/Readwise/Articles/Web Application Architecture](../../3-Resources/Highlights/Readwise/Articles/Web%20Application%20Architecture.md)
+* *Agence Breizhtorm - Www.Breizhtorm.Fr* in [What's a Successful Shiny Application - Rtask](../../3-Resources/Highlights/Readwise/Articles/What's%20a%20Successful%20Shiny%20Application%20-%20Rtask.md)
+* *Amy M Haddad* in [What’s on Your Programming Reading List-2](../../3-Resources/Highlights/Readwise/Articles/What%E2%80%99s%20on%20Your%20Programming%20Reading%20List-2.md)
+* *levelup.gitconnected.com* in [What’s on Your Programming Reading List](../../3-Resources/Highlights/Readwise/Articles/What%E2%80%99s%20on%20Your%20Programming%20Reading%20List.md)
+* *Kan Nishida* in [Why Factor Is One of the Most Amazing Things in R & Forcats Helps You Reali](../../3-Resources/Highlights/Readwise/Articles/Why%20Factor%20Is%20One%20of%20the%20Most%20Amazing%20Things%20in%20R%20&%20Forcats%20Helps%20You%20Reali.md)
+* *mikenikles.com* in [Why I Use a Cloud-Based Development Environment and How You Can Too](../../3-Resources/Highlights/Readwise/Articles/Why%20I%20Use%20a%20Cloud-Based%20Development%20Environment%20and%20How%20You%20Can%20Too.md)
+* *Fernando Souza* in [Why Programmers Should Write Tutorials](../../3-Resources/Highlights/Readwise/Articles/Why%20Programmers%20Should%20Write%20Tutorials.md)
+* *alistapart.com* in [Writing Is Thinking-2](../../3-Resources/Highlights/Readwise/Articles/Writing%20Is%20Thinking-2.md), [Writing Is Thinking](../../3-Resources/Highlights/Readwise/Articles/Writing%20Is%20Thinking.md)
+* *Nityesh Agarwal* in [Writing Well A Must-Have Skill That No One Teaches Data Scientists](../../3-Resources/Highlights/Readwise/Articles/Writing%20Well%20A%20Must-Have%20Skill%20That%20No%20One%20Teaches%20Data%20Scientists.md)
+* *Mark Virtue* in [Zen and the Art of File and Folder Organization](../../3-Resources/Highlights/Readwise/Articles/Zen%20and%20the%20Art%20of%20File%20and%20Folder%20Organization.md)
+* *Rachel Wayne* in [Zen to Done The Habit-Building Productivity System](../../3-Resources/Highlights/Readwise/Articles/Zen%20to%20Done%20The%20Habit-Building%20Productivity%20System.md)
+* *rsangole.netlify.app* in [{yHat} - Reproducible Work in R](../../3-Resources/Highlights/Readwise/Articles/{yHat}%20-%20Reproducible%20Work%20in%20R.md)
+* *Febé Meyer* in [Clean Up and Declutter Your Computer](../../3-Resources/Highlights/Readwise/Books/Clean%20Up%20and%20Declutter%20Your%20Computer.md)
+* *Michael Hyatt* in [Free to Focus](../../3-Resources/Highlights/Readwise/Books/Free%20to%20Focus.md)
+* *Christopher Gandrud* in [Reproducible Research With R and RStudio](../../3-Resources/Highlights/Readwise/Books/Reproducible%20Research%20With%20R%20and%20RStudio.md)
+* *Timothy Ferriss* in [Tribe of Mentors](../../3-Resources/Highlights/Readwise/Books/Tribe%20of%20Mentors.md)
+* *Jesse Mecham* in [You Need a Budget](../../3-Resources/Highlights/Readwise/Books/You%20Need%20a%20Budget.md)
+* *The Knowledge Project with Shane Parrish* in *3-Resources/Highlights/Readwise/Podcasts/ > 101 Jane McGonigal The Psychology of Gaming*, *3-Resources/Highlights/Readwise/Podcasts/ > 88 Derek Sivers Innovation Versus Imitation-2*, *3-Resources/Highlights/Readwise/Podcasts/ > 88 Derek Sivers Innovation Versus Imitation*
+* *Focus on This* in *3-Resources/Highlights/Readwise/Podcasts/ > 110 —  How to Clear Your Calendar in Your Busiest Seasons*
+* *Mind Meld With Josh Gonsalves* in *3-Resources/Highlights/Readwise/Podcasts/ > 23 Nat Eliason on Starting a Life-Changing Blog*
+* *The Tim Ferriss Show* in *3-Resources/Highlights/Readwise/Podcasts/ > 384 —  David Allen — The Art of Getting Things Done (GTD)*, *3-Resources/Highlights/Readwise/Podcasts/ > 401 —  Gary Keller — How to Focus on the One Important Thing*, *3-Resources/Highlights/Readwise/Podcasts/ > 424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More*, *3-Resources/Highlights/Readwise/Podcasts/ > 444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2*, *3-Resources/Highlights/Readwise/Podcasts/ > 444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More*, *3-Resources/Highlights/Readwise/Podcasts/ > 447 Books I've Loved — Ann Miura-Ko-2*, *3-Resources/Highlights/Readwise/Podcasts/ > 447 Books I've Loved — Ann Miura-Ko*, *3-Resources/Highlights/Readwise/Podcasts/ > 485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success*, *3-Resources/Highlights/Readwise/Podcasts/ > 490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals*, *3-Resources/Highlights/Readwise/Podcasts/ > 493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More*, *3-Resources/Highlights/Readwise/Podcasts/ > 494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More*
+* *The Art of Manliness* in *3-Resources/Highlights/Readwise/Podcasts/ > 634 How to Design Conversations That Matter-2*, *3-Resources/Highlights/Readwise/Podcasts/ > 634 How to Design Conversations That Matter*, [Stop Living on Autopilot and Take Responsibility for Your Life](../../3-Resources/Highlights/Readwise/Podcasts/Stop%20Living%20on%20Autopilot%20and%20Take%20Responsibility%20for%20Your%20Life.md)
+* *Focused* in [113 —  ADHD and Cognitive Science, with Brittany Smith](../../3-Resources/Highlights/Readwise/Podcasts/113%20%E2%80%94%20%20ADHD%20and%20Cognitive%20Science,%20with%20Brittany%20Smith.md), [132 —  Willpower and Your Environment](../../3-Resources/Highlights/Readwise/Podcasts/132%20%E2%80%94%20%20Willpower%20and%20Your%20Environment.md)
+* *The Bitcoin Standard Podcast* in [27. The Underlying Technology Behind Fiat Standard](../../3-Resources/Highlights/Readwise/Podcasts/27.%20The%20Underlying%20Technology%20Behind%20Fiat%20Standard.md)
+* *Getting Things Done® podcast from GTDnordic* in *3-Resources/Highlights/Readwise/Podcasts/54. Listener questions  > 7 —  Big projects vs sub-projects and where to store support material*
+* *The James Altucher Show* in [677 - The Art of Impossible With Steven Kotler!](../../3-Resources/Highlights/Readwise/Podcasts/677%20-%20The%20Art%20of%20Impossible%20With%20Steven%20Kotler!.md)
+* *Not Overthinking* in [68 Bits of Unsolicited Advice-2](../../3-Resources/Highlights/Readwise/Podcasts/68%20Bits%20of%20Unsolicited%20Advice-2.md), [68 Bits of Unsolicited Advice](../../3-Resources/Highlights/Readwise/Podcasts/68%20Bits%20of%20Unsolicited%20Advice.md), [Austin Kleon on Writing, Creativity and the Importance of Idleness](../../3-Resources/Highlights/Readwise/Podcasts/Austin%20Kleon%20on%20Writing,%20Creativity%20and%20the%20Importance%20of%20Idleness.md), [Bouncing Back, Finding Fulfilment and Being Productive Ft. Noah Kagan](../../3-Resources/Highlights/Readwise/Podcasts/Bouncing%20Back,%20Finding%20Fulfilment%20and%20Being%20Productive%20Ft.%20Noah%20Kagan.md), [Competitiveness and Mimetic Traps](../../3-Resources/Highlights/Readwise/Podcasts/Competitiveness%20and%20Mimetic%20Traps.md)
+* *Software Engineering Daily* in [Argo —  Kubernetes-Native Tools with Alex Collins](../../3-Resources/Highlights/Readwise/Podcasts/Argo%20%E2%80%94%20%20Kubernetes-Native%20Tools%20with%20Alex%20Collins.md), [Data Discovery with Shinji Kim](../../3-Resources/Highlights/Readwise/Podcasts/Data%20Discovery%20with%20Shinji%20Kim.md), [Infrastructure as Code with Christian Tragesser](../../3-Resources/Highlights/Readwise/Podcasts/Infrastructure%20as%20Code%20with%20Christian%20Tragesser.md)
+* *Deep Questions with Cal Newport* in [Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS-2](../../3-Resources/Highlights/Readwise/Podcasts/Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS-2.md), [Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS.md), [Ep. 101 —  Does Productivity Impede the Deep Life](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%20101%20%E2%80%94%20%20Does%20Productivity%20Impede%20the%20Deep%20Life.md), [Ep. 108 —  LISTENER CALLS —  Becoming Productive](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%20108%20%E2%80%94%20%20LISTENER%20CALLS%20%E2%80%94%20%20Becoming%20Productive.md), [Ep. 109 —  How Much Should I Read](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%20109%20%E2%80%94%20%20How%20Much%20Should%20I%20Read.md), [Ep. 118 —  LISTENER CALLS —  A Primer On My Planning Philosophy](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%20118%20%E2%80%94%20%20LISTENER%20CALLS%20%E2%80%94%20%20A%20Primer%20On%20My%20Planning%20Philosophy.md), [Ep. 125 —  What is Discipline (and How Do I Get It)](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%20125%20%E2%80%94%20%20What%20is%20Discipline%20%28and%20How%20Do%20I%20Get%20It%29.md), [Ep. 14 —  Habit Tune-Up —  Publishing Strategies, Surviving Side Hustles, Productivity for Support Roles, and Cultivating Balance in the Pursuit of Depth](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2014%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Publishing%20Strategies,%20Surviving%20Side%20Hustles,%20Productivity%20for%20Support%20Roles,%20and%20Cultivating%20Balance%20in%20the%20Pursuit%20of%20Depth.md), [Ep. 15 —  Deep Work in Groups, Social Media in Politics, and Confronting Common Arguments Against My Work  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2015%20%E2%80%94%20%20Deep%20Work%20in%20Groups,%20Social%20Media%20in%20Politics,%20and%20Confronting%20Common%20Arguments%20Against%20My%20Work%20%20DEEP%20QUESTIONS.md), [Ep. 16 —  Habit Tune-Up —  Why Relaxation is Overrated and the Importance of Facing the Productivity Dragon](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2016%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Why%20Relaxation%20is%20Overrated%20and%20the%20Importance%20of%20Facing%20the%20Productivity%20Dragon.md), [Ep. 19 —  Calendar Shaming, Digital Detox Struggles, and the Unexpected Challenges of Autonomy  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2019%20%E2%80%94%20%20Calendar%20Shaming,%20Digital%20Detox%20Struggles,%20and%20the%20Unexpected%20Challenges%20of%20Autonomy%20%20DEEP%20QUESTIONS.md), [Ep. 27 —  Inside My Planning Discipline, the Joys and Sorrows of Slack, and Finding Depth Among Shallow Friends  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2027%20%E2%80%94%20%20Inside%20My%20Planning%20Discipline,%20the%20Joys%20and%20Sorrows%20of%20Slack,%20and%20Finding%20Depth%20Among%20Shallow%20Friends%20%20DEEP%20QUESTIONS.md), [Ep. 32 —  Habit Tune-Up —  Tracking Deliberate Practice, Getting Over the Fact Work is Hard, and Taming the Emotional Rigors of Depth](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2032%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Tracking%20Deliberate%20Practice,%20Getting%20Over%20the%20Fact%20Work%20is%20Hard,%20and%20Taming%20the%20Emotional%20Rigors%20of%20Depth.md), [Ep. 36 —  Habit Tune-Up —  Scheduling Life Admin, Finding Time for Practice, and High-Tech Metric Tracking](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2036%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Scheduling%20Life%20Admin,%20Finding%20Time%20for%20Practice,%20and%20High-Tech%20Metric%20Tracking.md), [Ep. 41 —  Selling Your First Book, Shallow Spouses, and My Dream Schedule  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2041%20%E2%80%94%20%20Selling%20Your%20First%20Book,%20Shallow%20Spouses,%20and%20My%20Dream%20Schedule%20%20DEEP%20QUESTIONS.md), [Ep. 53 Covey's Quads, Perfect Productivity Systems, and Reducing Laziness](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2053%20Covey's%20Quads,%20Perfect%20Productivity%20Systems,%20and%20Reducing%20Laziness.md), [Ep. 55 —  Shallow Teams, Vague Goals, and Pandemic Screen Time](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2055%20%E2%80%94%20%20Shallow%20Teams,%20Vague%20Goals,%20and%20Pandemic%20Screen%20Time.md), [Ep. 58 —  Habit Tune-Up —  Clarifying Task Organization, Graduate Student Advice, and My Research Workflow](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2058%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Clarifying%20Task%20Organization,%20Graduate%20Student%20Advice,%20and%20My%20Research%20Workflow.md), [Ep. 6 —  Balancing the Personal and Professional, Unreasonable Email Expectations, and Avoiding Hard Creative Work  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%206%20%E2%80%94%20%20Balancing%20the%20Personal%20and%20Professional,%20Unreasonable%20Email%20Expectations,%20and%20Avoiding%20Hard%20Creative%20Work%20%20DEEP%20QUESTIONS.md), [Ep. 64 —  Habit Tune-Up —  A Look Inside My Book Research Systems](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2064%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20A%20Look%20Inside%20My%20Book%20Research%20Systems.md), [Ep. 65 —  Is Productivity Bad](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2065%20%E2%80%94%20%20Is%20Productivity%20Bad.md), [Ep. 69 —  How Do I Find Joy in Leisure](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2069%20%E2%80%94%20%20How%20Do%20I%20Find%20Joy%20in%20Leisure.md), [Ep. 7 —  Habit Tune-Up —  Time Blocking, Document Collaboration, Protecting Time and Doing Too Much](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%207%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Time%20Blocking,%20Document%20Collaboration,%20Protecting%20Time%20and%20Doing%20Too%20Much.md), [Ep. 76 —  Habit Tune-Up —  Email On Speed (Taming WhatsApp)](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2076%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Email%20On%20Speed%20%28Taming%20WhatsApp%29.md), [Ep. 78 —  Habit Tune-Up —  Time Blocking vs. Bullet Journaling](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2078%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Time%20Blocking%20vs.%20Bullet%20Journaling.md), [Ep. 8 —  Fleeing a Collapsing Career, Taking Notes on Books, Building a Deep Life  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%208%20%E2%80%94%20%20Fleeing%20a%20Collapsing%20Career,%20Taking%20Notes%20on%20Books,%20Building%20a%20Deep%20Life%20%20DEEP%20QUESTIONS.md), [Ep. 80 —  Habit Tune-Up —  Deep Work After Hard Days](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2080%20%E2%80%94%20%20Habit%20Tune-Up%20%E2%80%94%20%20Deep%20Work%20After%20Hard%20Days.md), [Ep. 91 —  GREG MCKEOWN on Making Essential Work Effortless](../../3-Resources/Highlights/Readwise/Podcasts/Ep.%2091%20%E2%80%94%20%20GREG%20MCKEOWN%20on%20Making%20Essential%20Work%20Effortless.md), [Habit Tune-Up Productivity System Indecision, Embracing Boredom, and Craving Depth in a Shallow Job](../../3-Resources/Highlights/Readwise/Podcasts/Habit%20Tune-Up%20Productivity%20System%20Indecision,%20Embracing%20Boredom,%20and%20Craving%20Depth%20in%20a%20Shallow%20Job.md), [My New Task System, Deep Work With Kids, and Finding Purpose in Distracted Times  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/My%20New%20Task%20System,%20Deep%20Work%20With%20Kids,%20and%20Finding%20Purpose%20in%20Distracted%20Times%20%20DEEP%20QUESTIONS.md), [Student Shutdown Rituals, Optimal Deep-To-Shallow Ratios, and the $20 Million Question  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Student%20Shutdown%20Rituals,%20Optimal%20Deep-To-Shallow%20Ratios,%20and%20the%20$20%20Million%20Question%20%20DEEP%20QUESTIONS.md), [Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS-2](../../3-Resources/Highlights/Readwise/Podcasts/Tackling%20Procrastination,%20Building%20a%20Productivity%20System%20From%20Scratch,%20and%20the%20Intellectual%20Shallowness%20of%20Social%20Media%20%20DEEP%20QUESTIONS-2.md), [Tackling Procrastination, Building a Productivity System From Scratch, and the Intellectual Shallowness of Social Media  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Tackling%20Procrastination,%20Building%20a%20Productivity%20System%20From%20Scratch,%20and%20the%20Intellectual%20Shallowness%20of%20Social%20Media%20%20DEEP%20QUESTIONS.md), [Where I Work, Convincing Students to Disconnect, and Applying Deep Work to Deep Social Problems  DEEP QUESTIONS](../../3-Resources/Highlights/Readwise/Podcasts/Where%20I%20Work,%20Convincing%20Students%20to%20Disconnect,%20and%20Applying%20Deep%20Work%20to%20Deep%20Social%20Problems%20%20DEEP%20QUESTIONS.md)
+* *The Building a Second Brain Podcast* in [Borrowed Creativity](../../3-Resources/Highlights/Readwise/Podcasts/Borrowed%20Creativity.md)
+* *Beyond the To-Do List* in [Dorie Clark on the power of Long Term Thinking](../../3-Resources/Highlights/Readwise/Podcasts/Dorie%20Clark%20on%20the%20power%20of%20Long%20Term%20Thinking.md), [Jaime Masters on Focus, Flow, Time Tracking and Nootropics](../../3-Resources/Highlights/Readwise/Podcasts/Jaime%20Masters%20on%20Focus,%20Flow,%20Time%20Tracking%20and%20Nootropics.md), [Megan McNealy on Achieving Optimal Productivity Through Well-being](../../3-Resources/Highlights/Readwise/Podcasts/Megan%20McNealy%20on%20Achieving%20Optimal%20Productivity%20Through%20Well-being.md)
+* *Exponent* in [Exponent 188 — Big Tech, Antitrust, and Democracy-2](../../3-Resources/Highlights/Readwise/Podcasts/Exponent%20188%20%E2%80%94%20Big%20Tech,%20Antitrust,%20and%20Democracy-2.md), [Exponent 188 — Big Tech, Antitrust, and Democracy](../../3-Resources/Highlights/Readwise/Podcasts/Exponent%20188%20%E2%80%94%20Big%20Tech,%20Antitrust,%20and%20Democracy.md)
+* *Before Breakfast* in [Find your finish line](../../3-Resources/Highlights/Readwise/Podcasts/Find%20your%20finish%20line.md)
+* *The Rich Roll Podcast* in [He Ran Across America — On Plants](../../3-Resources/Highlights/Readwise/Podcasts/He%20Ran%20Across%20America%20%E2%80%94%20On%20Plants.md)
+* *The Productivity Show: Time Management* in [How To Recover From A Bad Day (TPS374)](../../3-Resources/Highlights/Readwise/Podcasts/How%20To%20Recover%20From%20A%20Bad%20Day%20%28TPS374%29.md)
+* *TRAINED* in [Laurie Santos, PhD  Simple Ways to Live a Happier Life](../../3-Resources/Highlights/Readwise/Podcasts/Laurie%20Santos,%20PhD%20%20Simple%20Ways%20to%20Live%20a%20Happier%20Life.md)
+* *Developer Tea* in [Limit Your Options By Limiting Your Obligations](../../3-Resources/Highlights/Readwise/Podcasts/Limit%20Your%20Options%20By%20Limiting%20Your%20Obligations.md)
+* *The Changelog: Software Development, Open Source* in [Oh my! Zsh.](../../3-Resources/Highlights/Readwise/Podcasts/Oh%20my!%20Zsh..md), [The business model of open source](../../3-Resources/Highlights/Readwise/Podcasts/The%20business%20model%20of%20open%20source.md)
+* *Teaching in Higher Ed* in [Personal Knowledge Management Reprised](../../3-Resources/Highlights/Readwise/Podcasts/Personal%20Knowledge%20Management%20Reprised.md)
+* *Change Your Game with GTD®* in *3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You  >  53*
+* *The Mindset Mentor* in [This Is How We Change the World](../../3-Resources/Highlights/Readwise/Podcasts/This%20Is%20How%20We%20Change%20the%20World.md)
+* *Techmeme Ride Home* in [Wed. 0929 – Is Amazon’s Astro Robot… Ready](../../3-Resources/Highlights/Readwise/Podcasts/Wed.%200929%20%E2%80%93%20Is%20Amazon%E2%80%99s%20Astro%20Robot%E2%80%A6%20Ready.md)
+* *3-Resources/Highlights/Readwise/_README* in *3-Resources/Highlights/_README*
+* *Azure Synapse Analytics* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* *Azure Arc* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* *Kubernetes* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* *Azure SQL Database* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* *Azure Storage Blobs* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* *Azure App Service* in [Azure Machine Learning](../../3-Resources/Tools/Developer%20Tools/Cloud%20Services/Azure/Azure%20Machine%20Learning.md)
+* [Streaks](../../3-Resources/Tools/iOS%20Apps/Streaks.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [Toggl](../../3-Resources/Tools/Productivity%20Tools/Toggl.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [Instapaper](../../3-Resources/Tools/PKM%20Tools/Instapaper.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [Feedly](../../3-Resources/Tools/PKM%20Tools/Feedly.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [Evernote](../../3-Resources/Tools/PKM%20Tools/Evernote.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [Momentum](../../3-Resources/Tools/Web%20Browsers/Browser%20Extensions/Momentum.md) in [Productivity Apps List](../Lists/Productivity%20Apps%20List.md)
+* [CLI Tools List](../Lists/CLI%20Tools%20List.md) in [Todoist-CLI](../../3-Resources/Tools/Developer%20Tools/Command%20Line%20Utilities/Todoist-CLI.md)
+* *Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You  >  53* in *Changelog*
+* *54. Listener questions  > 7 —  Big projects vs sub-projects and where to store support material* in *Changelog*
+* *Workflow for Serverless — Cloud Functions + Workflow [Basic* in *Changelog*, [Unlinked-Files](Unlinked-Files.md)
+* *Cloud Based Computing Business Ideas for 2021 [Top 50 Picks* in *Changelog*, [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/Struggling To See The Big Picture As You Work The Horizons Of Focus Model Is For You  >  53* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/54. Listener questions  > 7 —  Big projects vs sub-projects and where to store support material* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 88 Derek Sivers Innovation Versus Imitation* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 88 Derek Sivers Innovation Versus Imitation-2* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 634 How to Design Conversations That Matter* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 634 How to Design Conversations That Matter-2* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 494 Michael Phelps and Grant Hackett — Two Legends on Competing, Overcoming Adversity, Must-Read Books, and Much More* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 493 The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 490 Dr. Jim Loehr on Mental Toughness, Energy Management, the Power of Journaling, and Olympic Gold Medals* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 485 Jerry Seinfeld — A Comedy Legend’s Systems, Routines, and Methods for Success* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 447 Books I've Loved — Ann Miura-Ko* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 447 Books I've Loved — Ann Miura-Ko-2* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 444 Hugh Jackman on Best Decisions, Daily Routines, the 85% Rule, Favorite Exercises, Mind Training, and Much More-2* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 424 —  Brian Koppelman on Making Art, Francis Ford Coppola, Building Momentum, and More* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 401 —  Gary Keller — How to Focus on the One Important Thing* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 384 —  David Allen — The Art of Getting Things Done (GTD)* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 23 Nat Eliason on Starting a Life-Changing Blog* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 110 —  How to Clear Your Calendar in Your Busiest Seasons* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Podcasts/ > 101 Jane McGonigal The Psychology of Gaming* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Articles/9 Tips to Get More Out of Your Calendar [PMP  > 177* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Articles/ > 6 Practicing - Tips From the Clean Coder - DEV* in [Unlinked-Files](Unlinked-Files.md)
+* *3-Resources/Highlights/Readwise/Articles/ > 5 8 Tips for a Production-Ready Shiny Application* in [Unlinked-Files](Unlinked-Files.md)
 
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Unresolved-Links]] AND -"Changelog"
-```
+````

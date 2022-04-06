@@ -1,17 +1,10 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Code/GHA", "#Type/Code/R", "#Topic/Dev/R"]
-Alias: ["GitHub Actions for R"]
----
-
 # GitHub Actions for R
 
 ## R CMD Check
 
-- `check-full.yml`
+* `check-full.yml`
 
-```yaml
+````yaml
 # NOTE: This workflow is overkill for most R packages
 # check-standard.yaml is likely a better choice
 # usethis::use_github_action("check-standard") will install it.
@@ -120,11 +113,11 @@ jobs:
           name: ${{ matrix.config.os }}-r${{ matrix.config.r }}-results
           path: check
 
-```
+````
 
-- `check-standard.yml`
+* `check-standard.yml`
 
-```yaml
+````yaml
 
 # For help debugging build failures open an issue on the RStudio community with the 'github-actions' tag.
 # https://community.rstudio.com/new-topic?category=Package%20development&tags=github-actions
@@ -213,18 +206,17 @@ jobs:
           name: ${{ runner.os }}-r${{ matrix.config.r }}-results
           path: check
 
-```
+````
 
-
-***
+---
 
 ## Appendix: Links
 
-- [[Code]]
-- [[Development]]
+* *Code*
+* [Development](../../MOCs/Development.md)
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[GitHub Actions for R]] AND -"Changelog"
-```
+````

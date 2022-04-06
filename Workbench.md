@@ -1,23 +1,16 @@
----
-Date: 2022-02-13
-Author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
-Tags: ["#Type/Meta"]
-Alias: "Workbench"
----
-
 # Workbench
 
-[[Setting up an Optimal Developer Environment on Windows]]
+[Setting up an Optimal Developer Environment on Windows](2-Areas/Content/Posts/Drafts/Setting%20up%20an%20Optimal%20Developer%20Environment%20on%20Windows.md)
 
 ## Vault Todo's
 
-- [ ] Bring in notes from [obsidian_vault/R at master · jimbrig/obsidian_vault (github.com)](https://github.com/jimbrig/obsidian_vault/tree/master/R)
+* [ ] Bring in notes from [obsidian_vault/R at master · jimbrig/obsidian_vault (github.com)](https://github.com/jimbrig/obsidian_vault/tree/master/R)
 
 All Notes tagged with `#Status/Todo`:
 
-```dataview
+````dataview
 LIST FROM #Status/Todo 
-```
+````
 
 ## Projects
 
@@ -25,11 +18,10 @@ LIST FROM #Status/Todo
 
 ## Scratchpad
 
-
-***
+---
 
 *Backlinks:*
 
-```dataview
+````dataview
 list from [[Workbench]] AND -"Changelog"
-```
+````
