@@ -1,4 +1,4 @@
-%% Begin Waypoint %%
+%% Begin Waypoint %% 
 
 * **[0-Slipbox](0-Slipbox.md)**
   * **\_assets**
