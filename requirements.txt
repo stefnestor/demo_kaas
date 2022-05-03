@@ -1,7 +1,9 @@
 fontawesome_markdown
 mkdocs
 mkdocs-awesome-pages-plugin
+mkdocs-exclude
 mkdocs-macros-plugin
 mkdocs-material
-mkdocstrings
 mkdocs-roamlinks-plugin
+mkdocs-section-index
+mkdocstrings
