@@ -55,21 +55,4 @@ markdown_extensions:
 
 plugins:
   - search
-      prebuild_index: true
   - awesome-pages
-  - exclude:
-      glob:
-        - "*.adb"
-        - "*.asm"
-        - "*.conf"
-        - "*.sh"
-        - "*.go"
-        - "*.html"
-        - "*.jl"
-        - "*.pdf"
-        - "*.php"
-        - "*.py"
-        - "*.r"
-        - "*.rb"
-        - "*.txt"
-        - "*/langs/*.yml"
