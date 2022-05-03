@@ -1,10 +1,7 @@
 site_name: KaaS
 site_description: Knowledge as a Service.
-site_author: Jimmy Briggs
-site_url: https://kaas.jimbrig.com/
-copyright: Copyright &copy; 2022 Jimmy Briggs
-repo_url: https://github.com/jimbrig/KaaS/
-repo_name: jimbrig/KaaS
+repo_url: https://github.com/stefnestor/demo_kaas/
+repo_name: stefnestor/demo_kaas
 remote_branch: gh-pages
 edit_uri: edit/main/
 use_directory_urls: true
@@ -14,33 +11,34 @@ theme:
   name: 'material'
   features:
     - navigation.tabs
+    - navigation.features
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
   palette:
-    # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue
-      accent: teal
+      accent: cyan
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
-    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
-      accent: teal
+      accent: cyan
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
 
-# Extensions
 markdown_extensions:
+  - admonition
   - footnotes
   - toc:
       permalink: true
-  - admonition
   - codehilite:
       linenums: true
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -57,5 +55,21 @@ markdown_extensions:
 
 plugins:
   - search
-  # - roamlinks
+    prebuild_index: true
   - awesome-pages
+  - exclude:
+      glob:
+        - "*.adb"
+        - "*.asm"
+        - "*.conf"
+        - "*.sh"
+        - "*.go"
+        - "*.html"
+        - "*.jl"
+        - "*.pdf"
+        - "*.php"
+        - "*.py"
+        - "*.r"
+        - "*.rb"
+        - "*.txt"
+        - "*/langs/*.yml"
