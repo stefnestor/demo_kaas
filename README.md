@@ -241,12 +241,12 @@ See *Tools* for a vast listing of useful tools I've come across split into categ
   * *Version Control*
   * *Websites and Online Tools*
 
-And many others!
+And many others! Yaya.
 
 ---
 
-<p align="center"><img src="https://i.imgur.com/6msNgxN.png" height="55%" width="55%"/></p>
 
+A
 ---
 
 [main]: https://github.com/jimbrig/KaaS-New/tree/main
